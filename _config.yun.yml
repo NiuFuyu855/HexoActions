@@ -31,6 +31,15 @@ avatar:
     emoji: 🌑
     message: Looking for dawn.
 
+# 背景设置
+bg_image:
+  enable: true
+  url: /bj.jpg
+  # url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg
+  # dark:
+  # blur: 30px # 设置背景模糊程度
+  opacity: 0.8
+
 # 打赏
 reward:
   enable: true
@@ -55,6 +64,14 @@ creative_commons:
   post: true
   language: deed.zh
   clipboard: false
+
+# 代码高亮
+codeblock:
+  copy_btn: true
+
+# Medium Zoom 放大预览图片
+# 点击文章图片，放大预览
+medium_zoom: true
 
 # 字数统计
 wordcount:
@@ -90,6 +107,7 @@ notice:
   enable: true
   content: Hi. Welcome my 屑破站!qwq
 
+# waline
 comment:
   candidates:
     - waline
@@ -97,7 +115,6 @@ comment:
   tips:
     - 欢迎留言，博主不会每天都看评论（
 
-# waline
 waline:
   enable: true
   serverURL: https://waline.niufuyu.top/
@@ -121,19 +138,11 @@ mourn:
 girls:
   enable: true
 
-github_discussions:
-  enable: false
-
 # 搜索
 algolia_search:
   enable: true
   hits:
     per_page: 10 # the number of search results per page
-
-disqusjs:
-  enable: false
-  shortname: yunyoujun
-  apikey: ouoGQCaamOKdJgyZU5DKcpFnRIg3SNzvk0nwygPtlcTRJuE68c8igvrZGW4wAJoN
 
 # https://github.com/laymonage/giscus
 giscus:
@@ -145,6 +154,13 @@ giscus:
   reactions-enabled: 1
   emit-metadata: 0
   theme: light
+
+# 文章访客统计
+leancloud_visitors:
+  enable: true
+  app_id: xtzijrHQv1rgIR3w9ukDbxJq-MdYXbMMI
+  app_key: cVLuyWl93M6FHuHKy2hHNvmJ
+  server_url: https://xtzijrhq.api.lncldglobal.com
 
 # 页脚
 footer:
@@ -158,27 +174,16 @@ footer:
     enable: false
     icp: 
 
-engine_search:
-  enable: false
-
-# If you want to use it, you need config algolia appID in _config.yml!!!
-# https://github.com/oncletom/hexo-algolia
-#algolia_search:
-#  enable: true
-#  # ...
-
 google_analytics:
   enable: false
-  id: G-1LL0D86CY9
+  id: 
 
-google_adsense:
-  enable: false
-  client: ca-pub-2245427233262012
-
+# 编辑文章
 post_edit:
-  enable: false
-  url: https://github.com/NiuFuyu855/Niute-Fony/
+  enable: true
+  url: https://github.com/NiuFuyu855/HexoActions/tree/main/source/
 
+# Tags
 tags:
   学习: saddlebrown
   教程: royalblue
@@ -190,7 +195,9 @@ tags:
   学习资料: royalblue
   Hello World: royalblue
   脚本: royalblue
+  今日热榜: red
 
+# Categories
 categories:
   日常: '#FB7299'
   游戏: '#FB7299'
@@ -202,24 +209,49 @@ categories:
   教程: '#FB7299'
   Markdown: '#FB7299'
   脚本: '#FB7299'
+  今日热榜: '#FB7299'
 
+# 页面
 pages:
   - name: 我的小伙伴们
     url: /links/
     icon: ri:genderless-line
     color: dodgerblue
+  - name: 喜欢的女孩子
+    url: /girls/
+    icon: ri:women-line
+    color: pink
+  - name: 追番列表
+    url: /anime/
+    icon: maki:cinema
+    color: grey
+  - name: 追剧列表
+    url: /cinema/
+    icon: maki:cinema
+    color: grey
+  - name: Steam
+    url: /steamgames/
+    icon: mdi:steam
+    color: grey
 
+# ScrollReveal
+# 首页卡片与文章内部图片的滚动浮现效果
+scrollreveal:
+  enable: true
+  targets:
+    - .post-card
+    - .markdown-body img
+
+# Cursor光标
 cursor:
   enable: true
 
+#百度SEO
 baidu_push: true
-
+#GoogleSEO
 google_tagmanager:
-  enable: true
-  id: GTM-M9KWR9L
-
-#wordcount:
-#  enable: true
+  enable: false
+  id: 
 
 say:
   api: https://el-bot-api.vercel.app/api/words/young
@@ -287,5 +319,5 @@ social:
     link: https://travellings.link
     icon: ri:train-line
     color: black
-# pjax:
-#   enable: true
+pjax:
+  enable: true

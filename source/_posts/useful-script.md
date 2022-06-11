@@ -226,10 +226,10 @@ wget -qO- get.docker.com | bash
 sudo apt-get purge docker-ce docker-ce-cli containerd.io
 ```
 ```
- sudo rm -rf /var/lib/docker
- sudo rm -rf /var/lib/containerd
+sudo rm -rf /var/lib/docker
+sudo rm -rf /var/lib/containerd
 ```
 #### 非大陆Docker-compose安装
 ```
- sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 ```

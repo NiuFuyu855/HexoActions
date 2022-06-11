@@ -130,3 +130,66 @@ encrypt: # hexo-blog-encrypt
   - {name: tagName, password: 密码B}
   wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
   wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
+
+# 关闭 highlight
+  highlight:
+    enable: false
+# 启用 prism
+  prismjs:
+    enable: true
+    preprocess: true
+    line_number: false
+    tab_replace: ''
+
+bangumi: # 追番设置
+  enable: true
+  source: bili
+  path: anime/index.html
+  vmid: 526873978
+  title: '追番列表'
+  quote: '生命不息，追番不止！'
+  show: 1
+  lazyload: true
+  loading: 
+  metaColor: 
+  color: 
+  webp: true
+  progress: 
+  extraOrder: 
+  proxy:
+    host: 
+    port: 
+  extra_options:
+    key: value
+cinema: # 追剧设置
+  enable: true
+  path: cinema/index.html
+  vmid: 526873978
+  title: '追剧列表'
+  quote: '生命不息，追剧不止！'
+  show: 1
+  lazyload: true
+  loading: 
+  metaColor: 
+  color: 
+  webp: true
+  progress: true
+  extraOrder: 0
+  extra_options:
+    key: value
+
+steam:
+  enable: true
+  steamId: '76561199208993128'
+  path: steamgames/index.html
+  title: Steam游戏库
+  quote: 'My Steam Games.'
+  tab: all
+  length: 1000
+  imgUrl: 
+  proxy:
+    host:
+    port:
+  extra_options:
+    key: value
+
