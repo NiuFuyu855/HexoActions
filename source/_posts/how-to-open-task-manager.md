@@ -3,7 +3,7 @@ title: 打开任务管理器的n种方式？
 date: 2022-06-25 12:46:37
 tags: 教程
 categories: [日常,教程]
-permalink: posts/open-task-manager
+permalink: posts/open-task-manager/
 abbrlink: 8y9th87
 ---
 
@@ -11,6 +11,7 @@ abbrlink: 8y9th87
 
 任务管理器想必大家都太熟悉不过了（如果你用`MacOS` or `Linux`就当我没说过），那么你知道几种打开任务管理器的方法呢？
 ![任务管理器](https://img-niufuyu.vercel.app/Onedrive/taskmgr.png)
+
 <!-- more -->
 
 ### 快捷键1.0
@@ -43,7 +44,6 @@ abbrlink: 8y9th87
 我们先打开“系统配置”（通过“运行”输入`msconfig`），然后点击选项卡中的“启动，这时下方就会出现“打开任务管理器”，点击即可打开。（此方法仅限Win10/Win11）
 
 ### 结尾
-
 
 你还知道哪些方法呢？欢迎在评论区留言！
 
