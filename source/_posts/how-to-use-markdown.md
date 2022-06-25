@@ -1,12 +1,19 @@
 ---
 title: MarkDown基本语法
+categories:
+  - - 日常
+    - 教程
+    - Markdown
+tags:
+  - 教程
+  - Markdown
+permalink: posts/how-to-use-markdown/
+abbrlink: 4a098468
 date: 2022-06-06 20:20:00
-categories: 
- - [日常, 教程, Markdown]
-tags: 
- - 教程
- - Markdown
 ---
+
+![Markdown](https://img-niufuyu.vercel.app/Onedrive/markdown.jpg "Markdown")
+<!-- more -->
 
 # MarkDown基本语法
 # 前言

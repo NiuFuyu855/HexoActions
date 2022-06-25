@@ -1,13 +1,20 @@
 ---
 title: 关于我
-date: 2022-06-05 18:55:00
-categories: [日常, 关于我]
-tags: 
- - 关于我
- - 关于本站
+categories:
+  - 日常
+  - 关于我
+tags:
+  - 关于我
+  - 关于本站
 aplayer: true
 sticky: 2
+permalink: posts/about-me/
+abbrlink: 9ff79b23
+date: 2022-06-05 18:55:00
 ---
+
+{% meting "1404469236" "netease" "song" "theme:#C20C0C" %}
+<!-- more -->
 
 ## 关于我
 

@@ -43,18 +43,21 @@ bg_image:
 # 打赏
 reward:
   enable: true
-  comment: 我很可爱，请给我钱
+  comment: 我很可爱，请给我钱qwq
   methods:
     - name: 支付宝
-      #path: https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg
+      # path: https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg
+      path: https://img-niufuyu.vercel.app/Onedrive/zfb.jpg
       color: '#00A3EE'
       icon: ri:alipay-line
     - name: QQ 支付
-      #path: https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png
+      # path: https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png
+      path: https://img-niufuyu.vercel.app/Onedrive/qq.png
       color: '#12B7F5'
       icon: ri:qq-line
     - name: 微信支付
-      #path: https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg
+      # path: https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg
+      path: https://img-niufuyu.vercel.app/Onedrive/wx.png
       color: '#2DC100'
       icon: ri:wechat-pay-line
 
@@ -105,7 +108,7 @@ menu:
 # 公告
 notice:
   enable: true
-  content: Hi. Welcome my 屑破站!qwq
+  content: Hi. Welcome my 屑破站!qwq <br>今年要会考了，考不好就真玩完了</br><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1424964170&auto=0&height=66"></iframe></br> <br>不过我相信光</br><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1461256747&auto=0&height=66"></iframe></br>
 
 # waline
 comment:
@@ -196,6 +199,9 @@ tags:
   Hello World: royalblue
   脚本: royalblue
   今日热榜: red
+  Outlook: royalblue
+  测试: green
+  Dome: green
 
 # Categories
 categories:
@@ -210,6 +216,8 @@ categories:
   Markdown: '#FB7299'
   脚本: '#FB7299'
   今日热榜: '#FB7299'
+  技术分享: '#FB7299'
+  测试: '#FB7299'
 
 # 页面
 pages:
@@ -229,7 +237,7 @@ pages:
     url: /cinema/
     icon: maki:cinema
     color: grey
-  - name: Steam
+  - name: Steam Games
     url: /steamgames/
     icon: mdi:steam
     color: grey
@@ -259,6 +267,10 @@ say:
     enable: false
 
 social:
+  - name: SiteMap
+    link: /sitemap.xml
+    icon: ri:rss-line
+    color: blue
   - name: RSS
     # set rss in your root config
     # https://github.com/hexojs/hexo-generator-feed

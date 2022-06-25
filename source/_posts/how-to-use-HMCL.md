@@ -1,16 +1,25 @@
 ---
 title: 什么？你会不会用 HMCL 玩MC？
-date: 2022-06-06 20:30:00
-cover: https://pic.rmb.bdstatic.com/bjh/b6cc5566db8c66501926c215fec27d58.jpeg
 tags:
-- HMCL
-- 教程
-- Minecraft
+  - HMCL
+  - 教程
+  - Minecraft
 categories:
-- [日常, 游戏, Minecraft, HMCL]
+  - - 日常
+    - 游戏
+    - Minecraft
+    - HMCL
+permalink: posts/how-to-use-HMCL/
+abbrlink: fefd0b93
+date: 2022-06-06 20:30:00
 ---
 
-用 HMCL 启动 Minecraft，多是一件美事啊。
+用 HMCL 启动 Minecraft，多是一件美事啊（~~虽然博主用MultiMC~~）。
+
+![HMCL](https://img-niufuyu.vercel.app/Onedrive/HMCL.jpg "HMCL")
+
+<!-- more -->
+
 ---
 > 本文将从最基础的安装 Java 开始讲解，请合理使用 `Ctrl+F` 寻找您需要阅读的内容
 ---
@@ -86,10 +95,9 @@ categories:
 
 以 `1.16.5` 为例，点击 `1.16.5` 并点击「安装」。安装结束后即可回到游戏主页点击「启动游戏」。
 
-{% raw %}<article class="message is-success"><div class="message-body">{% endraw %}
+
 如果你安装了 `1.17+` 和 `1.17-` 的游戏版本，最好在「设置>全局游戏设置>Java 路径」中设置为「自动选择合适的 Java」
 ![如果你安装了 `1.17+` 和 `1.17-` 的游戏版本，最好在「设置>全局游戏设置>Java 路径」中设置为「自动选择合适的 Java」](https://pic.rmb.bdstatic.com/bjh/b65fe2641a34e58a28f8b482015081ee.png "如果你安装了 `1.17+` 和 `1.17-` 的游戏版本，最好在「设置>全局游戏设置>Java 路径」中设置为「自动选择合适的 Java」")
-{% raw %}</div></article>{% endraw %}
 
 ## 开始吧！
 

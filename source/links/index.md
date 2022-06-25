@@ -27,11 +27,11 @@ links:
     desc: Lanta的空间
     color: "#FF8000"
 
-  - url: "https://dh.niufuyu.top/"
-    avatar: "https://dh.niufuyu.top/wp-content/uploads/2022/05/logo-dark_collapsed@2x-80x80-1.png"
-    name: "NIUIO导航官方"
-    blog: "NIUIO导航"
-    desc: "初中生建的屑导航"
+  - url: "https://gzxing.cn/"
+    avatar: "https://gzxing.cn/logo.png"
+    name: 归星
+    blog: 归知星
+    desc: 热衷于分享
     color: "#0078e7"
 
 placeholder: 这个站主很懒，连个介绍都不写 # 默认对友链的描述

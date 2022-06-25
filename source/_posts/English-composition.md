@@ -1,15 +1,19 @@
 ---
 title: 英语作文秘籍
-date: 2022-06-09 21:15:00
-categories: [日常, 学习资料]
+categories:
+  - 日常
+  - 学习资料
 tags: 学习资料
-password: 82666
+# password: 82666
+permalink: posts/English-composition/
+abbrlink: 204b08c2
+date: 2022-06-09 21:15:00
 ---
 
-# 英语作文秘籍
-
 ![English.jpg](https://pic.niufuyu.top/img/English.jpg)
+<!-- more -->
 
+# 英语作文秘籍
 ### 文章开头部分：
 Admittedly 无可否认 Apparently 显然的
 In the beginning / To begin with 首先

@@ -1,11 +1,17 @@
 ---
 title: 整理亿些常用的脚本（持续更新中）
-date: 2022-06-10 19:07:00
-categories: 
- - [日常, 脚本]
+categories:
+  - - 日常
+    - 脚本
 tags: 脚本
 sticky: 3
+permalink: posts/useful-script/
+abbrlink: e42546e7
+date: 2022-06-10 19:07:00
 ---
+
+![Linux命令](https://img-niufuyu.vercel.app/Onedrive/Linux-command.png "Linux命令")
+<!-- more -->
 
 ## 综合工具箱（强烈推荐，集成了很多脚本）
 ```

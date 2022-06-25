@@ -1,10 +1,16 @@
 ---
 title: 今日热榜
-date: 2022-06-11 20:31:45
 tags: 今日热榜
 categories: 今日热榜
 sticky: 1
+permalink: posts/hot/
+abbrlink: 2abc6f05
+date: 2022-06-11 20:31:45
 ---
+
+来康康今日热榜吧！
+
+<!-- more -->
 
 {% tabs First unique name %}
 

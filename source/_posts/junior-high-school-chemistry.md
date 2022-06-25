@@ -1,8 +1,12 @@
 ---
 title: 初中化学中考知识点
-date: 2022-06-07 21:19:00
-categories: [日常, 学习资料]
+categories:
+  - 日常
+  - 学习资料
 tags: 学习资料
+permalink: posts/chemistry/
+abbrlink: 21cee8
+date: 2022-06-07 21:19:00
 ---
 
 
