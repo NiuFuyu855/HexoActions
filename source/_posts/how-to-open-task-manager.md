@@ -10,6 +10,7 @@ permalink: posts/open-task-manager
 
 任务管理器想必大家都太熟悉不过了（如果你用`MacOS` or `Linux`就当我没说过），那么你知道几种打开任务管理器的方法呢？
 ![任务管理器](https://img-niufuyu.vercel.app/Onedrive/taskmgr.png)
+<!-- more -->
 
 ### 快捷键1.0
 
