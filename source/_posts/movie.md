@@ -8,6 +8,7 @@ tags:
   - 电影
   - 网站
 permalink: posts/movie/
+abbrlink: 9exy08r
 ---
 
 哔嘀影视：[https://www.btbdys.com/](https://www.btbdys.com/)
