@@ -1,5 +1,5 @@
 ---
-abbrlink: ''
+abbrlink: 'protect-mc-server'
 categories:
 - 技术分享
 date: '2022-08-16 09:26:28'
