@@ -44,8 +44,8 @@ ping不通？请求超时？没事的，我们主要是看箭头指的位置是�
 
 # 搬运声明
 
-``````
- 版权属于： HunterYP1
- 本文链接： http://www.muliny.xyz/archives/1/
- 作品采用： 《 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 》许可协议授权
-``````
+版权属于： **HunterYP1**
+
+本文链接： [http://www.muliny.xyz/archives/1/](http://www.muliny.xyz/archives/1/)
+
+作品采用： **《** [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) **》许可协议授权**
