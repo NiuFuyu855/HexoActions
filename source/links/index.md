@@ -1,44 +1,39 @@
 ---
-layout: links
-title: 友链
-date: 2021-12-18 10:28:09
-keywords: 链接
-description: 一个普通的友链列表
 comments: true
+date: 2021-12-18 10:28:09
+description: 一个普通的友链列表
+keywords: 链接
+layout: links
 links:
-  - url: https://yunyoujun.cn
-    avatar: https://www.yunyoujun.cn/images/avatar.jpg
-    name: 云游君
-    blog: 云游君的小站
-    desc: All at sea.
-    color: "#0078e7"
-
-  - url: https://edenjohnson.cyou/
-    avatar: https://pic.edenjohnson.cyou/images/20200625174516.png
-    name: EdenJohnson
-    blog: Eden瞎写小屋
-    desc: 准初三屑的博客
-    color: "#0078e7"
-
-  - url: https://www.lanta.cyou/
-    avatar: https://www.lanta.cyou/avatar.jpg
-    name: Lanta Zone
-    blog: Lanta Zone
-    desc: Lanta的空间
-    color: "#FF8000"
-
-  - url: "https://gzxing.cn/"
-    avatar: "https://gzxing.cn/logo.png"
-    name: 归星
-    blog: 归知星
-    desc: 热衷于分享
-    color: "#0078e7"
-
-placeholder: 这个站主很懒，连个介绍都不写 # 默认对友链的描述
+- avatar: https://www.yunyoujun.cn/images/avatar.jpg
+  blog: 云游君的小站
+  color: '#0078e7'
+  desc: All at sea.
+  name: 云游君
+  url: https://yunyoujun.cn
+- avatar: https://pic.edenjohnson.cyou/images/20200625174516.png
+  blog: Eden瞎写小屋
+  color: '#0078e7'
+  desc: 准初三屑的博客
+  name: EdenJohnson
+  url: https://edenjohnson.cyou/
+- avatar: https://www.lanta.cyou/avatar.png
+  blog: Lanta Zone
+  color: '#FF8000'
+  desc: Lanta的空间
+  name: Lanta Zone
+  url: https://www.lanta.cyou/
+- avatar: https://www.minept.top/frontend/img/banner-2.jpg
+  blog: MPT
+  color: '#0078e7'
+  desc: 一个免费为MC玩家打造mod/插件的组织
+  name: X_huihui
+  url: https://www.minept.top/
+placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
----
-
-## 添加友链
+title: 友链
+updated: 2022-08-17 13:16:34
+---## 添加友链
 
 如果你想跟我添加友链，请检查自己的网站是否满足以下需求
 
