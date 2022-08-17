@@ -11,7 +11,7 @@ title: 使用 Github Actions 自动部署 Hexo
 updated: '2022-08-17 11:26:03'
 ---以后就不需要再自己部署博客了
 
-[Hexo & Github](https://pic.rmb.bdstatic.com/bjh/a5a79c32320475bd69aed54f5371065a.png "Hexo & Github")
+![Hexo & Github](https://pic.rmb.bdstatic.com/bjh/a5a79c32320475bd69aed54f5371065a.png "Hexo & Github")
 
 <!--more-->
 
