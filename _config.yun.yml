@@ -172,7 +172,7 @@ footer:
     enable: true
     prefix: 本博客已在风雨中坚强度过
     start_time: "2022-06-05 00:00:00"
-  custom_text: <a href="https://icp.gov.moe" target="_blank">萌ICP备</a><a href="https://icp.gov.moe/?keyword=20226111" target="_blank"> 20226111号</a> <br><p> </p></br> <br><a href="https://www.oscs1024.com/project/NiuFuyu855/HexoActions?ref=badge_small" alt="OSCS Status"><img src="https://www.oscs1024.com/platform/badge/NiuFuyu855/HexoActions.svg?size=small"/></a><br> <br><a href="https://travellings.link/" target="_blank" rel="noopener" title="开往-友链接力"><img src="https://travellings.link/assets/logo.gif" alt="开往-友链接力" width="120"></a> <br> </br> <br> </br>
+  custom_text: <a href="https://icp.gov.moe" target="_blank">萌ICP备</a><a href="https://icp.gov.moe/?keyword=20226111" target="_blank"> 20226111号</a> 
     <br>
     站点访问量 <span id="qexo-site-pv">Loading...</span>
     站点访客数 <span id="qexo-site-uv">Loading...</span>
@@ -182,6 +182,7 @@ footer:
         loadStatistic("https://qexo.niufuyu.top")
     </script>
     </br>
+  <br><p> </p></br> <br><a href="https://www.oscs1024.com/project/NiuFuyu855/HexoActions?ref=badge_small" alt="OSCS Status"><img src="https://www.oscs1024.com/platform/badge/NiuFuyu855/HexoActions.svg?size=small"/></a><br> <br><a href="https://travellings.link/" target="_blank" rel="noopener" title="开往-友链接力"><img src="https://travellings.link/assets/logo.gif" alt="开往-友链接力" width="120"></a>
   beian:
     enable: false
     icp: 
@@ -211,6 +212,7 @@ tags:
   Outlook: royalblue
   测试: green
   Demo: green
+  Qexo: blue
 
 # Categories
 categories:
