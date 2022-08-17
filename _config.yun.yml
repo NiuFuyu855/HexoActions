@@ -172,7 +172,7 @@ footer:
     enable: true
     prefix: 本博客已在风雨中坚强度过
     start_time: "2022-06-05 00:00:00"
-  custom_text: <a href="https://icp.gov.moe" target="_blank">萌ICP备</a><a href="https://icp.gov.moe/?keyword=20226111" target="_blank"> 20226111号</a> 
+  custom_text: <a href="https://icp.gov.moe" target="_blank">萌ICP备</a><a href="https://icp.gov.moe/?keyword=20226111" target="_blank"> 20226111号</a> <br><p> </p></br>
     <br>
     站点访问量 <span id="qexo-site-pv">Loading...</span>
     站点访客数 <span id="qexo-site-uv">Loading...</span>
