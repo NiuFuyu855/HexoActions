@@ -76,6 +76,34 @@ codeblock:
 # 点击文章图片，放大预览
 medium_zoom: true
 
+# 全局音乐播放器
+aplayer:
+  global: false
+  meting: true
+  # https://github.com/metowolf/MetingJS/tree/v1.2#option
+  widget:
+    enable: false
+    autoplay: false
+    # theme: "#2980b9"
+    loop: all
+    order: list
+    preload: auto
+    volume: 0.7
+    mutex: true
+    lrcType: 0
+    listFolded: false
+    listMaxHeight: 340px
+    audio:
+      - name: 星茶会
+        artist: 灰澈
+        url: https://cdn.jsdelivr.net/gh/NiuFuyu855/RandomMusic/星茶会.mp3
+        cover: https://p3-sign.bdxiguaimg.com/tos-cn-i-0026/8eb02d4edcac460fbb3157351086bbd3~tplv-pk90l89vgd-crop-center:864:486.jpeg?x-expires=1692369361&x-signature=NdpbiymD8pOYoxdMtrHSTypV7OE%3D
+    meting:
+      enable: true
+      id: 492390949
+      server: netease
+      type: playlist
+
 # 字数统计
 wordcount:
   enable: true
