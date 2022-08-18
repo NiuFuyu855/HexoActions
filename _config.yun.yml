@@ -78,12 +78,12 @@ medium_zoom: true
 
 # 全局音乐播放器
 aplayer:
-  global: false
+  global: true
   meting: true
   # https://github.com/metowolf/MetingJS/tree/v1.2#option
   widget:
-    enable: false
-    autoplay: false
+    enable: true
+    autoplay: true
     # theme: "#2980b9"
     loop: all
     order: list
