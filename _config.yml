@@ -158,15 +158,15 @@ encrypt: # hexo-blog-encrypt
 #    line_number: false
 #    tab_replace: ''
 
- highlight:
-   enable: true
-   auto_detect: false
-   line_number: true
-   tab_replace: '  '
-   wrap: true
-   hljs: false
- prismjs:
-   enable: false
+  highlight:
+    enable: true
+    auto_detect: false
+    line_number: true
+    tab_replace: '  '
+    wrap: true
+    hljs: false
+  prismjs:
+    enable: false
 
 bangumi: # 追番设置
   enable: true
