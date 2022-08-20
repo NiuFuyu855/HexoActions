@@ -181,6 +181,12 @@ algolia_search:
   enable: true
   hits:
     per_page: 10 # the number of search results per page
+    
+# 搜索设置
+# search
+# https://github.com/next-theme/hexo-generator-searchdb
+local_search:
+  enable: true
 
 # https://github.com/laymonage/giscus
 giscus:
