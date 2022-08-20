@@ -69,11 +69,11 @@ creative_commons:
   clipboard: false
 
 # 代码高亮
-codeblock:
-  copy_btn: true
-  prismjs:
-    light: 'https://cdn.jsdelivr.net/npm/prismjs@1.28.0/themes/prism-twilight.css'
-    dark: 'https://cdn.jsdelivr.net/npm/prismjs@1.28.0/themes/prism-dark.css'
+#codeblock:
+#  copy_btn: true
+#  prismjs:
+#    light: 'https://cdn.jsdelivr.net/npm/prismjs@1.28.0/themes/prism-twilight.css'
+#    dark: 'https://cdn.jsdelivr.net/npm/prismjs@1.28.0/themes/prism-dark.css'
 
 # Medium Zoom 放大预览图片
 # 点击文章图片，放大预览
