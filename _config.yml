@@ -120,7 +120,7 @@ theme: yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:NiuFuyu855/Niute-Fony.git
+  repo: git@github.com:NiuFuyu855/HexoActions.git
   branch: main
 
 # 搜索
@@ -149,14 +149,24 @@ encrypt: # hexo-blog-encrypt
   wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
 
 # 关闭 highlight
-  highlight:
-    enable: false
+#  highlight:
+#    enable: false
 # 启用 prism
-  prismjs:
-    enable: true
-    preprocess: true
-    line_number: false
-    tab_replace: ''
+#  prismjs:
+#    enable: true
+#    preprocess: true
+#    line_number: false
+#    tab_replace: ''
+
+highlight:
+  enable: true
+  auto_detect: false
+  line_number: true
+  tab_replace: '  '
+  wrap: true
+  hljs: false
+prismjs:
+  enable: false
 
 bangumi: # 追番设置
   enable: true
