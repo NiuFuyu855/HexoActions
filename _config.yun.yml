@@ -271,6 +271,42 @@ categories:
   技术分享: '#FB7299'
   测试: '#FB7299'
 
+# 内容卡片icon&color
+types:
+  link:
+    color: blue
+    icon: icon-external-link-line
+  bilibili:
+    color: '#FF8EB3'
+    icon: icon-bilibili-line
+  douban:
+    color: '#007722'
+    icon: icon-douban-line
+  github:
+    color: black
+    icon: icon-github-line
+  netease-cloud-music:
+    color: '#C10D0C'
+    icon: icon-netease-cloud-music-line
+  notion:
+    color: black
+    icon: icon-notion
+  twitter:
+    color: '#1da1f2'
+    icon: icon-twitter-line
+  wechat:
+    color: '#1AAD19'
+    icon: icon-wechat-2-line
+  weibo:
+    color: '#E6162D'
+    icon: icon-weibo-line
+  yuque:
+    color: '#25b864'
+    icon: icon-yuque
+  zhihu:
+    color: '#0084FF'
+    icon: icon-zhihu-line
+
 # 页面
 pages:
   - name: 我的小伙伴们
