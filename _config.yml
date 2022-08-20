@@ -149,14 +149,14 @@ encrypt: # hexo-blog-encrypt
   wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
 
 # 关闭 highlight
-  highlight:
-    enable: false
+highlight:
+  enable: false
 # 启用 prism
-  prismjs:
-    enable: true
-    preprocess: true
-    line_number: false
-    tab_replace: ''
+prismjs:
+  enable: true
+  preprocess: true
+  line_number: false
+  tab_replace: ''
 
 bangumi: # 追番设置
   enable: true
