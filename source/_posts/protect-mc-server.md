@@ -1,5 +1,5 @@
 ---
-abbrlink: 'protect-mc-server'
+abbrlink: protect-mc-server
 categories:
 - 技术分享
 date: '2022-08-16 09:26:28'
@@ -10,7 +10,7 @@ tags:
 - 我的世界
 - 服务器
 title: 使用免费的Cloudflare保护Minecraft服务器
-updated: '2022-08-16 09:46:36'
+updated: '2022-08-22 00:02:48'
 ---# 前言
 
 > ***网络攻击无处不在，最近Apache Log4j病毒在JAVA中肆无忌惮的传播，对我们小服主造成了极大的危害，还有网络DDoS等等，心血来潮给大家写一个教程关于保护自己的Minecraft服务器以免受DDoS攻击***
