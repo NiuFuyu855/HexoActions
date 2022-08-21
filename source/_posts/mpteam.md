@@ -1,5 +1,5 @@
 ---
-title: [MPT]一个免费为MC玩家打造mod/插件的组织
+title: '[MPT]一个免费为MC玩家打造mod/插件的组织'
 type: link
 url: https://www.minept.top/
 abbrlink: mpteam
