@@ -11,12 +11,6 @@ links:
   desc: All at sea.
   name: 云游君
   url: https://yunyoujun.cn
-- avatar: https://pic.edenjohnson.cyou/images/20200625174516.png
-  blog: Eden瞎写小屋
-  color: '#0078e7'
-  desc: 准初三屑的博客
-  name: EdenJohnson
-  url: https://edenjohnson.cyou/
 - avatar: https://www.lanta.cyou/avatar.png
   blog: Lanta Zone
   color: '#FF8000'
@@ -29,10 +23,22 @@ links:
   desc: 一个免费为MC玩家打造mod/插件的组织
   name: X_huihui
   url: https://www.minept.top/
+- avatar: https://www.lanta.cyou/avatar.png
+  blog: Lanta Zone
+  color: '#FF8000'
+  desc: Lanta的空间
+  name: Lanta Zone
+  url: https://www.lanta.cyou/
+- avatar: https://www.homo.ltd/wp-content/uploads/2022/08/透明底logo.png
+  blog: homo小站
+  color: '#0078e7'
+  desc: 一个优质资源分享的小站
+  name: homo
+  url: https://www.homo.ltd/
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
-updated: 2022-08-17 13:16:34
+updated: 2022-08-22 20:30:05
 ---## 添加友链
 
 如果你想跟我添加友链，请检查自己的网站是否满足以下需求
