@@ -23,12 +23,12 @@ links:
   desc: 一个免费为MC玩家打造mod/插件的组织
   name: X_huihui
   url: https://www.minept.top/
-- avatar: https://www.lanta.cyou/avatar.png
-  blog: Lanta Zone
+- avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+  blog: XiaoMing's Blog
   color: '#FF8000'
-  desc: Lanta的空间
-  name: Lanta Zone
-  url: https://www.lanta.cyou/
+  desc: XiaoMing's Blog
+  name: meinming
+  url: https://meinming.github.io/
 - avatar: https://www.homo.ltd/wp-content/uploads/2022/08/透明底logo.png
   blog: homo小站
   color: '#0078e7'
@@ -38,7 +38,7 @@ links:
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
-updated: 2022-08-22 20:30:05
+updated: 2022-08-22 20:53:26
 ---## 添加友链
 
 如果你想跟我添加友链，请检查自己的网站是否满足以下需求
