@@ -35,6 +35,12 @@ links:
   desc: 一个优质资源分享的小站
   name: homo
   url: https://www.homo.ltd/
+- avatar: https://yuesekaer.com/favicon.ico
+  blog: yuesekaer小站
+  color: '#0078e7'
+  desc: 全新的开放,严谨,优秀为一体的优质绿色电脑软件分享小站
+  name: yuesekaer
+  url: https://yuesekaer.com
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
