@@ -3,7 +3,7 @@ A blog powered by Hexo and Vercel.
 [![OSCS Status](https://www.oscs1024.com/platform/badge/NiuFuyu855/HexoActions.svg?size=small)](https://www.oscs1024.com/project/NiuFuyu855/HexoActions?ref=badge_small)
 
 <p align="center">
-<img width="128" src="docs/public/logo.gif">
+<img width="128" src="https://cdn.jsdelivr.net/gh/YunYouJun/hexo-theme-yun/docs/public/logo.gif">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ A blog powered by Hexo and Vercel.
 - Docs for `dev`: <https://yun.yunyoujun.cn>
 - Docs for `master`: <https://hexo-theme-yun.vercel.app/>
 
-![index-preview.jpg](./docs/public/images/index-preview.jpg)
+![index-preview.jpg](https://cdn.jsdelivr.net/gh/YunYouJun/hexo-theme-yun/docs/public/images/index-preview.jpg)
 
 > Now, I'm developing [valaxy](https://github.com/YunYouJun/valaxy) & `valaxy-theme-yun` to solve all the problems that currently exist in this theme.
 > If you wish to see it sooner, you can sponsor me [here](https://sponsors.yunyoujun.cn/).
