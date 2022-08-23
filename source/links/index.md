@@ -24,9 +24,9 @@ links:
   name: X_huihui
   url: https://www.minept.top/
 - avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-  blog: XiaoMing's Blog
+  blog: XiaoMing's Blog
   color: '#FF8000'
-  desc: XiaoMing's Blog
+  desc: XiaoMing's Blog
   name: meinming
   url: https://meinming.github.io/
 - avatar: https://www.homo.ltd/wp-content/uploads/2022/08/透明底logo.png
@@ -41,10 +41,16 @@ links:
   desc: 全新的开放,严谨,优秀为一体的优质绿色电脑软件分享小站
   name: yuesekaer
   url: https://yuesekaer.com
+- avatar: https://cdn.chs.pub/xy404/avatar-512x512.webp
+  blog: 小宇の日常
+  color: '#0078e7'
+  desc: Happy lazy~
+  name: 小宇
+  url: https://www.xiaoyv404.top/
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
-updated: 2022-08-22 20:53:26
+updated: 2022-08-23 19:32:41
 ---## 添加友链
 
 如果你想跟我添加友链，请检查自己的网站是否满足以下需求
