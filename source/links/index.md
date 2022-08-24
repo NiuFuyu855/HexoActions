@@ -53,10 +53,16 @@ links:
   desc: 一个屑初二学生的小窝
   name: Big_Cake
   url: https://bigcake.cakemc.top
+- avatar: https://oss.yzbh.tj.cn/halo/avatar.png
+  blog: Py’s Whisper
+  color: '#f5c979'
+  desc: 一秒接过制服，一生志在蓝天！
+  name: Gardenia
+  url: https://whisper.pyliubaolin.top
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
-updated: 2022-08-24 22:41:17
+updated: 2022-08-25 00:14:30
 ---## 添加友链
 
 如果你想跟我添加友链，请检查自己的网站是否满足以下需求
