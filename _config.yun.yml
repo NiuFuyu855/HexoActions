@@ -208,10 +208,11 @@ footer:
     prefix: 本博客已在风雨中坚强度过
     start_time: "2022-06-05 00:00:00"
   custom_text: <a href="https://icp.gov.moe" target="_blank">萌ICP备</a><a href="https://icp.gov.moe/?keyword=20226111" target="_blank"> 20226111号</a> <br><p> </p></br>
-    <br>
+    <br><font color="red">
     站点访问量 <span id="qexo-site-pv">Loading...</span>
     站点访客数 <span id="qexo-site-uv">Loading...</span>
     页面访问量 <span id="qexo-page-pv">Loading...</span>
+    </font>
     <script src="https://cdn.jsdelivr.net/npm/qexo-static@1.3.0/hexo/statistic/statistic.min.js"></script>
     <script>
         loadStatistic("https://qexo.niufuyu.top")
@@ -221,22 +222,6 @@ footer:
     <br><a href="https://www.west.cn/" target="_blank" style="top:13px" title="本站由西部数码提供域名服务"><img src="https://www.west.cn/images2016/logo.jpg" data-src="https://www.west.cn/images2016/logo.jpg" alt="西部数码" height="30"> </a>
         <a href="https://github.com/NiuFuyu855" target="_blank" style="top:13px" title="本站代码由GitHub提供代码托管服务"><img src="https://img-niufuyu.vercel.app/Onedrive/GitHub.png" data-src="https://img-niufuyu.vercel.app/Onedrive/GitHub.png" alt="github" height="30"> </a>
         <a href="https://hexo.io/zh-cn/index.html" target="_blank" style="top:13px" title="本站基于Hexo框架搭建"><img src="https://img-niufuyu.vercel.app/Onedrive/hexo.png" data-src="https://img-niufuyu.vercel.app/Onedrive/hexo.png" alt="hexo" height="30"></a></br>
-        <br><canvas id="myCanvas" width="480" height="40">
-    //画布Canvas
-        var c = document.getElementById("myCanvas");
-        var ctx = c.getContext("2d");
-        ctx.font = 'bold 35px Brush Script MT';
-        var grd = ctx.createLinearGradient(10, 10, 480, 30);
-        grd.addColorStop(0, "#f22");
-        grd.addColorStop(0.15, "#f2f");
-        grd.addColorStop(0.3, "#22f");
-        grd.addColorStop(0.45, "#2ff");
-        grd.addColorStop(0.6, "#2f2");
-        grd.addColorStop(0.75, "#2f2");
-        grd.addColorStop(0.9, "#ff2");
-        grd.addColorStop(1, "#f22");
-        ctx.fillStyle = grd;
-        ctx.fillText("十步杀一人，千里不留行。", 0, 30);
   beian:
     enable: false
     icp: 
