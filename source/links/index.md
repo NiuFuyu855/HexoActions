@@ -44,13 +44,19 @@ links:
 - avatar: https://cdn.chs.pub/xy404/avatar-512x512.webp
   blog: 小宇の日常
   color: '#0078e7'
-  desc: Happy lazy~
+  desc: Happy lazy~
   name: 小宇
   url: https://www.xiaoyv404.top/
+- avatar: https://s2.loli.net/2022/06/12/RpGChkMjcwIOAaJ.jpg
+  blog: 大蛋糕的烘焙坊
+  color: '#f5c979'
+  desc: 一个屑初二学生的小窝
+  name: Big_Cake
+  url: https://bigcake.cakemc.top
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
-updated: 2022-08-23 19:32:41
+updated: 2022-08-24 22:41:17
 ---## 添加友链
 
 如果你想跟我添加友链，请检查自己的网站是否满足以下需求
