@@ -225,20 +225,20 @@ footer:
 	width: 20px;
 	font-size: 20px;
 	background-image: 
-	-webkit-gradient( linear, left top, right top, color-stop(0, #f22), 
-	color-stop(0.15, #f2f), 
-	color-stop(0.3, #22f), 
-	color-stop(0.45, #2ff), 
-	color-stop(0.6, #2f2),
-	color-stop(0.75, #2f2), 
-	color-stop(0.9, #ff2), 
-	color-stop(1, #f22) );
+	    -webkit-gradient( linear, left top, right top, color-stop(0, #f22), 
+	    color-stop(0.15, #f2f), 
+	    color-stop(0.3, #22f), 
+	    color-stop(0.45, #2ff), 
+	    color-stop(0.6, #2f2),
+	    color-stop(0.75, #2f2), 
+	    color-stop(0.9, #ff2), 
+	    color-stop(1, #f22) );
 	color: transparent;
-	-webkit-background-clip: text;
-	-moz-background-clip: text;
-	-ms-background-clip: text
-   }
-   <div class='colorful'>开心一点，快乐一点！</div>
+	    -webkit-background-clip: text;
+	    -moz-background-clip: text;
+	    -ms-background-clip: text
+    }
+   <br><div class='colorful'>开心一点，快乐一点！</div></br>
   beian:
     enable: false
     icp: 
