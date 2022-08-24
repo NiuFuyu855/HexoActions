@@ -221,6 +221,24 @@ footer:
     <br><a href="https://www.west.cn/" target="_blank" style="top:13px" title="本站由西部数码提供域名服务"><img src="https://www.west.cn/images2016/logo.jpg" data-src="https://www.west.cn/images2016/logo.jpg" alt="西部数码" height="30"> </a>
         <a href="https://github.com/NiuFuyu855" target="_blank" style="top:13px" title="本站代码由GitHub提供代码托管服务"><img src="https://img-niufuyu.vercel.app/Onedrive/GitHub.png" data-src="https://img-niufuyu.vercel.app/Onedrive/GitHub.png" alt="github" height="30"> </a>
         <a href="https://hexo.io/zh-cn/index.html" target="_blank" style="top:13px" title="本站基于Hexo框架搭建"><img src="https://img-niufuyu.vercel.app/Onedrive/hexo.png" data-src="https://img-niufuyu.vercel.app/Onedrive/hexo.png" alt="hexo" height="30"></a></br>
+    .colorful{
+	width: 20px;
+	font-size: 20px;
+	background-image: 
+	-webkit-gradient( linear, left top, right top, color-stop(0, #f22), 
+	color-stop(0.15, #f2f), 
+	color-stop(0.3, #22f), 
+	color-stop(0.45, #2ff), 
+	color-stop(0.6, #2f2),
+	color-stop(0.75, #2f2), 
+	color-stop(0.9, #ff2), 
+	color-stop(1, #f22) );
+	color: transparent;
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	-ms-background-clip: text
+   }
+   <div class='colorful'>开心一点，快乐一点！</div>
   beian:
     enable: false
     icp: 
