@@ -61,14 +61,14 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
-  enable: false
+  enable: true
   preprocess: true
   line_number: true
   tab_replace: ''
@@ -147,16 +147,6 @@ encrypt: # hexo-blog-encrypt
   - {name: tagName, password: 密码B}
   wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
   wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
-
-# 关闭 highlight
-  highlight:
-    enable: false
-# 启用 prism
-  prismjs:
-    enable: true
-    preprocess: true
-    line_number: false
-    tab_replace: ''
 
 bangumi: # 追番设置
   enable: true
