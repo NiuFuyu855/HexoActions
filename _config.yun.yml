@@ -344,8 +344,8 @@ cursor:
 baidu_push: true
 #GoogleSEO
 google_tagmanager:
-  enable: false
-  id: 
+  enable: true
+  id: GTM-KZV92F7
 
 say:
   api: https://el-bot-api.vercel.app/api/words/young
