@@ -60,6 +60,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+# 关闭highlight
 highlight:
   enable: false
   line_number: true
@@ -67,6 +68,7 @@ highlight:
   tab_replace: ''
   wrap: true
   hljs: false
+# 启用prismjs
 prismjs:
   enable: true
   preprocess: true
