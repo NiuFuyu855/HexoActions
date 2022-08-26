@@ -121,9 +121,14 @@ theme: yun
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@github.com:NiuFuyu855/HexoActions.git
-  branch: main
+#  - type: git
+#    repo: git@github.com:NiuFuyu855/HexoActions.git
+#    branch: main
+  - type: ali-oss
+    region: oss-cn-hongkong
+    accessKeyId: LTAI5tRJbwv4qeQcFx8Gbpfe
+    accessKeySecret: vOn3Y7l1NWmFZxJ49MlhWSvQI0nZyb
+    bucket: niufuyu-blog
 
 # 搜索
 algolia:
