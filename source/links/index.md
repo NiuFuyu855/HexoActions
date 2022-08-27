@@ -54,15 +54,21 @@ links:
   name: Big_Cake
   url: https://bigcake.cakemc.top
 - avatar: https://oss.yzbh.tj.cn/halo/avatar.png
-  blog: Py’s Whisper
+  blog: Py’s Whisper
   color: '#f5c979'
   desc: 一秒接过制服，一生志在蓝天！
   name: Gardenia
   url: https://whisper.pyliubaolin.top
+- avatar: https://www.asukatea.cc/wp-content/uploads/2022/01/cropped-QQ图片20211210225957.jpg
+  blog: 茗茶の博客
+  color: '#0078e7'
+  desc: 一个热爱分享事务的二次元技术宅博客哦~~~
+  name: 茗茶
+  url: https://www.asukatea.cc/
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
-updated: 2022-08-25 00:14:30
+updated: 2022-08-27 22:36:11
 ---## 添加友链
 
 如果你想跟我添加友链，请检查自己的网站是否满足以下需求
