@@ -81,6 +81,10 @@ medium_zoom: true
 
 # 全局音乐播放器
 aplayer:
+  cdn: https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js
+  style_cdn: https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css
+  meting_cdn: https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js
+  asset_inject: false
   global: true
   meting: true
   # https://github.com/metowolf/MetingJS/tree/v1.2#option
@@ -199,6 +203,11 @@ leancloud_visitors:
   app_id: xtzijrHQv1rgIR3w9ukDbxJq-MdYXbMMI
   app_key: cVLuyWl93M6FHuHKy2hHNvmJ
   server_url: https://xtzijrhq.api.lncldglobal.com
+
+# head头部资源
+head: 
+  css: 
+  js: 
 
 # 页脚
 footer:
