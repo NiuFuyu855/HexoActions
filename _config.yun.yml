@@ -205,9 +205,9 @@ leancloud_visitors:
   server_url: https://xtzijrhq.api.lncldglobal.com
 
 # head头部资源
-head: 
-  css: 
-  js: 
+#head: 
+#  css: 
+#  js: 
 
 # 页脚
 footer:
