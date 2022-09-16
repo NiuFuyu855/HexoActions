@@ -22,7 +22,7 @@ timezone: ''
 
 # URL
 # # If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://blogs.niufuyu.top/
+url: https://off.cx/
 root: /
 # permalink: :year/:month/:day/:title/  # 旧的注释掉
 # permalink_defaults:                   # 旧的注释掉
