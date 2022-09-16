@@ -232,8 +232,8 @@ footer:
         <a href="https://github.com/NiuFuyu855" target="_blank" style="top:13px" title="本站代码由GitHub提供代码托管服务"><img src="https://img-niufuyu.vercel.app/Onedrive/GitHub.png" data-src="https://img-niufuyu.vercel.app/Onedrive/GitHub.png" alt="github" height="30"> </a>
         <a href="https://hexo.io/zh-cn/index.html" target="_blank" style="top:13px" title="本站基于Hexo框架搭建"><img src="https://img-niufuyu.vercel.app/Onedrive/hexo.png" data-src="https://img-niufuyu.vercel.app/Onedrive/hexo.png" alt="hexo" height="30"></a></br>
   beian:
-    enable: false
-    icp: 
+    enable: true
+    icp: 浙ICP备13034790号-3
 
 google_analytics:
   enable: false
