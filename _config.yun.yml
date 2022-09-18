@@ -47,17 +47,17 @@ reward:
   methods:
     - name: 支付宝
       # path: https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg
-      path: https://img-niufuyu.vercel.app/Onedrive/zfb.jpg
+      path: https://off.cx/img/zfb.jpg
       color: '#00A3EE'
       icon: ri:alipay-line
     - name: QQ 支付
       # path: https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png
-      path: https://img-niufuyu.vercel.app/Onedrive/qq.png
+      path: https://off.cx/img/qq.png
       color: '#12B7F5'
       icon: ri:qq-line
     - name: 微信支付
       # path: https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg
-      path: https://img-niufuyu.vercel.app/Onedrive/wx.png
+      path: https://off.cx/img/wx.png
       color: '#2DC100'
       icon: ri:wechat-pay-line
 
@@ -175,6 +175,7 @@ mourn:
   enable: true
   days:
     - 4-4
+    - 9-18
 
 # Girls
 girls:
@@ -229,8 +230,8 @@ footer:
     </br><br><p> </p></br> <br><a href="https://www.oscs1024.com/project/NiuFuyu855/HexoActions?ref=badge_small" alt="OSCS Status"><img src="https://www.oscs1024.com/platform/badge/NiuFuyu855/HexoActions.svg?size=small"/></a></br> <br><a href="https://travellings.link/" target="_blank" rel="noopener" title="开往-友链接力"><img src="https://travellings.link/assets/logo.gif" alt="开往-友链接力" width="120"></a></br>
     <br><p></p></br>
     <br><a href="https://www.west.cn/" target="_blank" style="top:13px" title="本站由西部数码提供域名服务"><img src="https://www.west.cn/images2016/logo.jpg" data-src="https://www.west.cn/images2016/logo.jpg" alt="西部数码" height="30"> </a>
-        <a href="https://github.com/NiuFuyu855" target="_blank" style="top:13px" title="本站代码由GitHub提供代码托管服务"><img src="https://img-niufuyu.vercel.app/Onedrive/GitHub.png" data-src="https://img-niufuyu.vercel.app/Onedrive/GitHub.png" alt="github" height="30"> </a>
-        <a href="https://hexo.io/zh-cn/index.html" target="_blank" style="top:13px" title="本站基于Hexo框架搭建"><img src="https://img-niufuyu.vercel.app/Onedrive/hexo.png" data-src="https://img-niufuyu.vercel.app/Onedrive/hexo.png" alt="hexo" height="30"></a></br>
+        <a href="https://github.com/NiuFuyu855" target="_blank" style="top:13px" title="本站代码由GitHub提供代码托管服务"><img src="https://off.cx/img/GitHub.png" data-src="https://off.cx/img/GitHub.png" alt="github" height="30"> </a>
+        <a href="https://hexo.io/zh-cn/index.html" target="_blank" style="top:13px" title="本站基于Hexo框架搭建"><img src="https://off.cx/img/hexo.png" data-src="https://off.cx/img/hexo.png" alt="hexo" height="30"></a></br>
   beian:
     enable: true
     icp: 浙ICP备13034790号-3
