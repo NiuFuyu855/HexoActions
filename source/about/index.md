@@ -8,7 +8,7 @@ updated: 2022-09-18 11:40:05
 ## 关于博客
 
 Hei! Guy!
-欢迎来到一个屑初二生的屑破站！
+欢迎来到一个屑初三生的屑破站！
 
 无论你身处何方，这个小博客都欢迎你的到来。
 啥？我为啥要搭建这个博客？
@@ -17,9 +17,11 @@ Hei! Guy!
 
 博客使用 [jsDelivr](https://www.jsdelivr.com/) 静态资源公共库中的部分静态资源作为 cdn。
 
+博客已进行 [ICP](https://beian.miit.gov.cn/) 备案，ICP备案号是[[浙ICP备13034790号-3](https://beian.miit.gov.cn/)]。(博客可使用多网址访问，但域名是备案了一个，即off.cx)
+
 博客已进行 [萌国ICP](https://icp.gov.moe/) 备案，萌备案号是[萌ICP备20226111号](https://icp.gov.moe/?keyword=20226111)。
 
-博客已签约 [十年之约](https://www.foreverblog.cn/)，可以在 [这里](https://www.foreverblog.cn/blog/2712.html) 查看详情。按照 [条约](https://www.foreverblog.cn/treaty.html) 的约定，博客会开十年之久。
+~~博客已签约 [十年之约](https://www.foreverblog.cn/)，可以在 [这里](https://www.foreverblog.cn/blog/2712.html) 查看详情。按照 [条约](https://www.foreverblog.cn/treaty.html) 的约定，博客会开十年之久。~~(试着申请了，但没过审，等博客满一年会再次尝试申请的)
 
 博客是 [开往-友链接力](https://github.com/travellings-link/travellings) 的成员站点，非常支持优秀的站点之间互相来往联系。
 
@@ -27,14 +29,13 @@ Hei! Guy!
 
 <script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=rKleglShzRU4NQyRTpgmivmrH0leZTSS1hlzjAV56Gk&cl=ffffff&w=a"></script>
 
-
 ## 关于我
 
-我是 Niute Fony，一个 14 岁学生，目前初三。你可以叫我Niute、NameFlying(名飞)、NiuFuyu 或者 NiuFuyu855，或者你认为合适的称呼。
+我是 Niute Fony，一个 14 岁学生，目前初三。你可以叫我Niute、NameFlying(名飞)，或者你认为合适的称呼。
 
 我不擅长做一些有关于编程事情，语言组织能力不怎么好，有时会无法表达自己所想的东西。我逻辑性不强，写出来的文章有时也难以让人看懂。大部分时间都在实装和使用别人做好的程序。我也就会装装系统，给系统装装软件，部署一下 Hexo、WordPress，改一改别人写好的 HTML，除此之外我基本什么也不会。
 
-我本身不是 🏳️‍🌈LGBTQIA，但我坚定的支持他们。我支持他们在中国大陆的发展。
+我本身不是 🏳️‍🌈LGBTQIA，但我坚定的支持他们。我支持他们在中国大陆的发展[doge]。
 
 ### 游戏
 
