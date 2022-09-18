@@ -7,12 +7,13 @@ tags:
 - Phigros
 - 音游
 title: Phigros v2.3.3 曲目信息
-updated: '2022-08-21 22:17:40'
----# Phigros游戏介绍
+updated: '2022-09-18 15:47:33'
+---
+# Phigros游戏介绍
 
 Phigros是由Pigeon Games来主导开发研制的音乐节奏类手游，Pigeon Games为了让无论有没有玩过音乐节奏类手游的玩家们都可以感受音乐节奏类手游的好玩之处和吸引人的地方来制作了Phigros。Phigros为玩家们准备了一些让音乐类游戏爱好者喜欢的音乐歌曲，让你可以一一的进行挑战。挑战的难度也会因为音乐整体的歌曲节奏而来提升，如果你的手速和反应并不是特别的快，那么建议你可以选择一些节奏比较缓慢的歌曲来慢慢的上手游玩，然后来慢慢增加歌曲的难度。
 
-![Phigros](https://img-niufuyu.vercel.app/Onedrive/phigros.jpg "Phigros")
+![Phigros](https://off.cx/img/phigros.jpg "Phigros")
 
 <!-- more -->
 
