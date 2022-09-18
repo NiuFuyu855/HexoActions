@@ -1,28 +1,31 @@
 ---
-title: 什么？你会不会用 HMCL 玩MC？
-tags:
-  - HMCL
-  - 教程
-  - Minecraft
-categories:
-  - - 日常
-    - 游戏
-    - Minecraft
-    - HMCL
-permalink: posts/how-to-use-HMCL/
 abbrlink: fefd0b93
-date: 2022-06-06 20:30:00
+categories:
+- - 日常
+  - 游戏
+  - Minecraft
+  - HMCL
+date: '2022-06-06 20:30:00'
+permalink: posts/how-to-use-HMCL/
+tags:
+- HMCL
+- 教程
+- Minecraft
+title: 什么？你会不会用 HMCL 玩MC？
+updated: '2022-09-18 15:52:01'
 ---
-
 用 HMCL 启动 Minecraft，多是一件美事啊（~~虽然博主用MultiMC~~）。
 
-![HMCL](https://img-niufuyu.vercel.app/Onedrive/HMCL.jpg "HMCL")
+![HMCL](https://off.cx/img/HMCL.jpg "HMCL")
 
 <!-- more -->
 
 ---
+
 > 本文将从最基础的安装 Java 开始讲解，请合理使用 `Ctrl+F` 寻找您需要阅读的内容
+
 ---
+
 ## Java 的配置
 
 根据 [Minecraft Wiki 的介绍](https://wiki.biligame.com/mc/Java%E7%89%88#.E8.BD.AF.E4.BB.B6.E9.9C.80.E6.B1.82)，为了可以舒服、稳定地游玩游戏，我认为在计算机上最好安装 Java 8 和 Java 17，这两个都是长期支持版本，并且可以满足大部分正式版本的启动。
@@ -94,7 +97,6 @@ date: 2022-06-06 20:30:00
 ![在启动器主页点击下载，并选择你需要的版本](https://pic.rmb.bdstatic.com/bjh/c528dc4624426cc8ee512f840216442a.png)
 
 以 `1.16.5` 为例，点击 `1.16.5` 并点击「安装」。安装结束后即可回到游戏主页点击「启动游戏」。
-
 
 如果你安装了 `1.17+` 和 `1.17-` 的游戏版本，最好在「设置>全局游戏设置>Java 路径」中设置为「自动选择合适的 Java」
 ![如果你安装了 `1.17+` 和 `1.17-` 的游戏版本，最好在「设置>全局游戏设置>Java 路径」中设置为「自动选择合适的 Java」](https://pic.rmb.bdstatic.com/bjh/b65fe2641a34e58a28f8b482015081ee.png "如果你安装了 `1.17+` 和 `1.17-` 的游戏版本，最好在「设置>全局游戏设置>Java 路径」中设置为「自动选择合适的 Java」")
