@@ -1,16 +1,19 @@
 ---
-title: 打开任务管理器的n种方式？
-date: 2022-06-25 12:46:37
-tags: 教程
-categories: [日常,教程]
-permalink: posts/open-task-manager/
 abbrlink: 8y9th87
+categories:
+- 日常
+- 教程
+date: '2022-06-25 12:46:37'
+permalink: posts/open-task-manager/
+tags:
+- 教程
+title: 打开任务管理器的n种方式？
+updated: '2022-09-18 15:53:36'
 ---
-
 ### 前言
 
 任务管理器想必大家都太熟悉不过了（如果你用`MacOS` or `Linux`就当我没说过），那么你知道几种打开任务管理器的方法呢？
-![任务管理器](https://img-niufuyu.vercel.app/Onedrive/taskmgr.png)
+![任务管理器](https://off.cx/img/taskmgr.png)
 
 <!-- more -->
 
@@ -27,17 +30,17 @@ abbrlink: 8y9th87
 ### 任务栏(Windows 10)
 
 在任务栏上轻点右键，就可以轻松找到任务管理器了（只可惜Win11把这个功能~~砍了~~）。
-![](https://img-niufuyu.vercel.app/Onedrive/taskmgr1.png)
+![](https://off.cx/img/taskmgr1.png)
 
 ### 运行
 
 你也可以通过运行来打开任务管理器。按下`Win+R`，在运行框中输入`taskmgr.exe`，就可以打开了
-![](https://img-niufuyu.vercel.app/Onedrive/taskmgr2.png)
+![](https://off.cx/img/taskmgr2.png)
 
 ### “开始”右键
 
 在Windows开始上点右键，可以出现一个菜单，点击“任务管理器”即可。
-![](https://img-niufuyu.vercel.app/Onedrive/taskmgr3.png)
+![](https://off.cx/img/taskmgr3.png)
 
 ### “声东击西”
 
@@ -46,4 +49,3 @@ abbrlink: 8y9th87
 ### 结尾
 
 你还知道哪些方法呢？欢迎在评论区留言！
-
