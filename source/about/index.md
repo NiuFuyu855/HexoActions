@@ -1,8 +1,9 @@
 ---
 date: 2022-06-05 18:55:00
 title: 关于
-updated: 2022-08-25 20:06:33
----# 关于
+updated: 2022-09-18 11:40:05
+---
+# 关于
 
 ## 关于博客
 
@@ -21,6 +22,11 @@ Hei! Guy!
 博客已签约 [十年之约](https://www.foreverblog.cn/)，可以在 [这里](https://www.foreverblog.cn/blog/2712.html) 查看详情。按照 [条约](https://www.foreverblog.cn/treaty.html) 的约定，博客会开十年之久。
 
 博客是 [开往-友链接力](https://github.com/travellings-link/travellings) 的成员站点，非常支持优秀的站点之间互相来往联系。
+
+#### 本站访问
+
+<script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=rKleglShzRU4NQyRTpgmivmrH0leZTSS1hlzjAV56Gk&cl=ffffff&w=a"></script>
+
 
 ## 关于我
 
@@ -65,3 +71,5 @@ Hei! Guy!
 #### 结尾
 
 彳亍，就这样吧......
+
+{% meting "1404469236" "netease" "song" "theme:#C20C0C" %}
