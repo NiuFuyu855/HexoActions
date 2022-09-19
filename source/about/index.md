@@ -1,7 +1,7 @@
 ---
 date: 2022-06-05 18:55:00
 title: 关于
-updated: 2022-09-18 11:40:05
+updated: 2022-09-20 06:26:50
 ---
 # 关于
 
@@ -51,11 +51,11 @@ Hei! Guy!
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.hypixel.net/embed" width="728" height="90"></iframe>
 
-![Phigros](https://img-niufuyu.vercel.app/Onedrive/phigros.jpg "Phigros")
+![Phigros](https://off.cx/img/phigros.jpg "Phigros")
 
-![Arcaea](https://img-niufuyu.vercel.app/Onedrive/Arcaea.jpg "Arcaea")
+![Arcaea](https://off.cx/img/Arcaea.jpg "Arcaea")
 
-![Orzmic](https://img-niufuyu.vercel.app/Onedrive/Orzmic.jpg "Orzmic")
+![Orzmic](https://off.cx/img/Orzmic.jpg "Orzmic")
 
 #### 亿些联系方式
 
