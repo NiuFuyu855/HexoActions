@@ -11,13 +11,11 @@ tags:
 - 关于我
 - 关于本站
 title: 关于
-updated: '2022-09-18 11:31:41'
+updated: '2022-09-20 06:28:03'
 ---
 {% meting "1404469236" "netease" "song" "theme:C20C0C" %}
 
 <!-- more -->
-
-
 
 # 关于
 
@@ -36,7 +34,6 @@ Hei! Guy!
 博客已进行 [ICP](https://beian.miit.gov.cn/) 备案，ICP备案号是[[浙ICP备13034790号-3](https://beian.miit.gov.cn/)]。(博客可使用多网址访问，但域名是备案了一个，即off.cx)
 
 博客已进行 [萌国ICP](https://icp.gov.moe/) 备案，萌备案号是[萌ICP备20226111号](https://icp.gov.moe/?keyword=20226111)。
-
 
 ~~博客已签约 [十年之约](https://www.foreverblog.cn/)，可以在 [这里](https://www.foreverblog.cn/blog/2712.html) 查看详情。按照 [条约](https://www.foreverblog.cn/treaty.html) 的约定，博客会开十年之久。~~(试着申请了，但没过审，等博客满一年会再次尝试申请的)
 
@@ -68,11 +65,11 @@ Hei! Guy!
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.hypixel.net/embed" width="728" height="90"></iframe>
 
-![Phigros](https://img-niufuyu.vercel.app/Onedrive/phigros.jpg "Phigros")
+![Phigros](https://off.cx/img/phigros.jpg "Phigros")
 
-![Arcaea](https://img-niufuyu.vercel.app/Onedrive/Arcaea.jpg "Arcaea")
+![Arcaea](https://off.cx/img/Arcaea.jpg "Arcaea")
 
-![Orzmic](https://img-niufuyu.vercel.app/Onedrive/Orzmic.jpg "Orzmic")
+![Orzmic](https://off.cx/img/Orzmic.jpg "Orzmic")
 
 #### 亿些联系方式
 
