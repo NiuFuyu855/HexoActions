@@ -159,7 +159,7 @@ comment:
 
 waline:
   enable: true
-  serverURL: https://waline.niufuyu.top/
+  serverURL: https://waline.off.cx/
   visitor: true
   comment: true
   emoji:
@@ -425,7 +425,7 @@ social:
     icon: ri:mail-line
     color: '#8E71C1'
   - name: Travelling
-    link: https://travellings.link
+    link: https://travellings.cn
     icon: ri:train-line
     color: black
 pjax:
