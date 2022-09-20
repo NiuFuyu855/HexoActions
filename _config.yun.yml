@@ -153,7 +153,7 @@ notice:
 comment:
   candidates:
     - waline
-    # - giscus
+    - giscus
   tips:
     - 欢迎留言，博主不会每天都看评论（
 
@@ -189,7 +189,7 @@ algolia_search:
 
 # https://github.com/laymonage/giscus
 giscus:
-  enable: false
+  enable: true
   repo: NiuFuyu855/HexoActions
   repo-id:
   category-id:
