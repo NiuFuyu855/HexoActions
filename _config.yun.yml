@@ -284,37 +284,37 @@ categories:
 types:
   link:
     color: blue
-    icon: icon-external-link-line
+    icon: ri:external-link-line
   bilibili:
     color: '#FF8EB3'
-    icon: icon-bilibili-line
+    icon: ri:bilibili-line
   douban:
     color: '#007722'
-    icon: icon-douban-line
+    icon: ri:douban-line
   github:
     color: black
-    icon: icon-github-line
+    icon: ri:github-line
   netease-cloud-music:
     color: '#C10D0C'
-    icon: icon-netease-cloud-music-line
+    icon: ri:netease-cloud-music-line
   notion:
     color: black
-    icon: icon-notion
+    icon: ri:notion
   twitter:
     color: '#1da1f2'
-    icon: icon-twitter-line
+    icon: ri:twitter-line
   wechat:
     color: '#1AAD19'
-    icon: icon-wechat-2-line
+    icon: ri:wechat-2-line
   weibo:
     color: '#E6162D'
-    icon: icon-weibo-line
+    icon: ri:weibo-line
   yuque:
     color: '#25b864'
-    icon: icon-yuque
+    icon: ri:yuque
   zhihu:
     color: '#0084FF'
-    icon: icon-zhihu-line
+    icon: ri:zhihu-line
 
 # 页面
 pages:
