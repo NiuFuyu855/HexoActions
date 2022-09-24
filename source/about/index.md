@@ -1,7 +1,7 @@
 ---
 date: 2022-06-05 18:55:00
 title: 关于
-updated: 2022-09-20 06:26:50
+updated: 2022-09-24 21:56:25
 ---
 # 关于
 
@@ -17,13 +17,15 @@ Hei! Guy!
 
 博客使用 [jsDelivr](https://www.jsdelivr.com/) 静态资源公共库中的部分静态资源作为 cdn。
 
-博客已进行 [ICP](https://beian.miit.gov.cn/) 备案，ICP备案号是[[浙ICP备13034790号-3](https://beian.miit.gov.cn/)]。(博客可使用多网址访问，但域名是备案了一个，即off.cx)
+博客已进行 [ICP](https://beian.miit.gov.cn/) 备案，ICP备案号是[[浙ICP备13034790号-3](https://beian.miit.gov.cn/)]。(博客可使用多网址访问，但域名是备案了一个，即off.cx，~~其实这个域名还不是我自己备案的~~)
 
-博客已进行 [萌国ICP](https://icp.gov.moe/) 备案，萌备案号是[萌ICP备20226111号](https://icp.gov.moe/?keyword=20226111)。
+博客已进行 [萌国ICP](https://icp.gov.moe/) 备案，萌备案号是[[萌ICP备20226111号](https://icp.gov.moe/?keyword=20226111)]。
 
 ~~博客已签约 [十年之约](https://www.foreverblog.cn/)，可以在 [这里](https://www.foreverblog.cn/blog/2712.html) 查看详情。按照 [条约](https://www.foreverblog.cn/treaty.html) 的约定，博客会开十年之久。~~(试着申请了，但没过审，等博客满一年会再次尝试申请的)
 
 博客是 [开往-友链接力](https://github.com/travellings-link/travellings) 的成员站点，非常支持优秀的站点之间互相来往联系。
+
+<a href="https://travellings.cn/" target="_blank" rel="noopener" title="开往-友链接力" data-pjax-state=""><img src="https://travellings.cn/assets/logo.gif" alt="开往-友链接力" width="120"></a>
 
 #### 本站访问
 
@@ -51,11 +53,17 @@ Hei! Guy!
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.hypixel.net/embed" width="728" height="90"></iframe>
 
-![Phigros](https://off.cx/img/phigros.jpg "Phigros")
+![My Hypixel Exp](https://gen.plancke.io/exp/NameFlying.png "My Hypixel Exp")
 
-![Arcaea](https://off.cx/img/Arcaea.jpg "Arcaea")
+![My Hypixel AchievementPoints](https://gen.plancke.io/achievementPoints/NameFlying.png "My Hypixel AchievementPoints")
 
-![Orzmic](https://off.cx/img/Orzmic.jpg "Orzmic")
+![My Mwgif](https://gen.plancke.io/mwgif/NameFlying.gif "My Mwgif")
+
+![Arcaea](https://off.cx/img/Arcaea.jpg)
+
+![Orzmic](https://off.cx/img/Orzmic.jpg)![Arcaea](https://off.cx/img/Arcaea.jpg "Arcaea")
+
+"Orzmic")
 
 #### 亿些联系方式
 
@@ -68,6 +76,8 @@ Hei! Guy!
 [Twitter](https://twitter.com/niufuyu123)
 
 [Email](mailto:me@niufuyu.top)
+
+欢迎联系我qwq！
 
 #### 结尾
 
