@@ -200,7 +200,7 @@ steam:
   quote: 'My Steam Games.'
   tab: all
   length: 1000
-  imgUrl: 
+  imgUrl: https://avatars.akamai.steamstatic.com/0e1655153a62f85011b0f14f2c184c79565a7735_full.jpg
   proxy:
     host:
     port:
