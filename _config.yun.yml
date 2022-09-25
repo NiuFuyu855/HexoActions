@@ -209,10 +209,23 @@ leancloud_visitors:
 # 页脚
 footer:
   since: 2022
+    # Icon between year and copyright info.
+  icon:
+    # `heart` is recommended with animation in red (#ff0000).
+    name: ri:heart-fill
+    # If you want to animate the icon, set it to true.
+    animated: true
+    # Change the color of icon, using Hex Code.
+    color: "#ff0000"
+    # url: https://sponsors.yunyoujun.cn
+    # title: 云游君的赞助者们
   live_time:
     enable: true
     prefix: 本博客已在风雨中坚强度过
     start_time: "2022-06-05 00:00:00"
+  powered:
+    # Hexo link (Powered by Hexo).
+    enable: true
   support:
       enable: true
       title: 又拍云
