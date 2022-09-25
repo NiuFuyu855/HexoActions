@@ -213,6 +213,13 @@ footer:
     enable: true
     prefix: 本博客已在风雨中坚强度过
     start_time: "2022-06-05 00:00:00"
+  support:
+      enable: true
+      title: 又拍云
+      link: https://www.upyun.com
+      logo: https://cdn.yunyoujun.cn/img/logo/upyun-logo.png
+      prefix: 本网站由
+      suffix: 提供 CDN 加速与云存储服务
   custom_text: <a href="https://icp.gov.moe" target="_blank">萌ICP备</a><a href="https://icp.gov.moe/?keyword=20226111" target="_blank"> 20226111号</a> <br><p> </p></br>
     <br><font color="red">
     站点访问量 <span id="qexo-site-pv">Loading...</span>
@@ -234,13 +241,6 @@ footer:
         <a href="https://hexo.io/zh-cn/index.html" target="_blank" style="top:13px" title="本站基于Hexo框架搭建"><img src="https://off.cx/img/hexo.png" data-src="https://off.cx/img/hexo.png" alt="hexo" height="30"></a>
         <a href="https://github.com/Qexo/Qexo" target="_blank" style="top:13px" title="本站以Qexo作为后台辅助管理"><img src="https://unpkg.com/qexo-static@1.4.0/assets/img/brand/qexo.png" alt="Qexo" height="30"></a>
         <a href="https://www.west.cn/" target="_blank" style="top:13px" title="本站由西部数码提供域名服务"><img src="https://www.west.cn/images2016/logo.jpg" data-src="https://www.west.cn/images2016/logo.jpg" alt="西部数码" height="30"> </a></br>
-    support:
-      enable: true
-      title: 又拍云
-      link: https://www.upyun.com
-      logo: https://cdn.yunyoujun.cn/img/logo/upyun-logo.png
-      prefix: 本网站由
-      suffix: 提供 CDN 加速与云存储服务
 
   beian:
     enable: true
