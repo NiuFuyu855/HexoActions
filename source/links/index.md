@@ -113,9 +113,6 @@ updated: 2022-09-25 13:14:57
 
 当添加完你的申请，我会把你的申请评论给删除
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.css"/>
-
 <link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
-
 
 <link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
