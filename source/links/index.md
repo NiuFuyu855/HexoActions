@@ -68,8 +68,9 @@ links:
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
-updated: 2022-08-27 22:36:11
----## 添加友链
+updated: 2022-09-25 11:45:14
+---
+## 添加友链
 
 如果你想跟我添加友链，请检查自己的网站是否满足以下需求
 
@@ -87,7 +88,7 @@ updated: 2022-08-27 22:36:11
 - 有明确的文章协议
 - HTTPS支持
 
-### 申请
+### 手动申请（推荐）
 
 如果你达到了这些要求，可以直接在下面评论区给我留言
 
@@ -105,3 +106,10 @@ updated: 2022-08-27 22:36:11
 每周一次将会维护一次博客，我会尽快处理你的申请
 
 当添加完你的申请，我会把你的申请评论给删除
+
+## 自动申请（试运行）
+
+
+<div id="friends-api"></div>
+<script src="https://cdn.jsdelivr.net/gh/Fgaoxing/blog-cdn@main/source/js/friends-api.js"></script>
+<script>qexo_friend_api("friends-api","qexo.niufuyu.top");</script>
