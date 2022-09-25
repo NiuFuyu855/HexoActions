@@ -4,67 +4,9 @@ date: 2021-12-18 10:28:09
 description: 一个普通的友链列表
 keywords: 链接
 layout: links
-links:
-- avatar: https://www.yunyoujun.cn/images/avatar.jpg
-  blog: 云游君的小站
-  color: '#0078e7'
-  desc: All at sea.
-  name: 云游君
-  url: https://yunyoujun.cn
-- avatar: https://www.lanta.cyou/avatar.png
-  blog: Lanta Zone
-  color: '#FF8000'
-  desc: Lanta的空间
-  name: Lanta Zone
-  url: https://www.lanta.cyou/
-- avatar: https://www.minept.top/frontend/img/banner-2.jpg
-  blog: MPT
-  color: '#0078e7'
-  desc: 一个免费为MC玩家打造mod/插件的组织
-  name: X_huihui
-  url: https://www.minept.top/
-- avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-  blog: XiaoMing's Blog
-  color: '#FF8000'
-  desc: XiaoMing's Blog
-  name: meinming
-  url: https://meinming.github.io/
-- avatar: https://www.homo.ltd/wp-content/uploads/2022/08/透明底logo.png
-  blog: homo小站
-  color: '#0078e7'
-  desc: 一个优质资源分享的小站
-  name: homo
-  url: https://www.homo.ltd/
-- avatar: https://yuesekaer.com/favicon.ico
-  blog: yuesekaer小站
-  color: '#0078e7'
-  desc: 全新的开放,严谨,优秀为一体的优质绿色电脑软件分享小站
-  name: yuesekaer
-  url: https://yuesekaer.com
-- avatar: https://cdn.chs.pub/xy404/avatar-512x512.webp
-  blog: 小宇の日常
-  color: '#0078e7'
-  desc: Happy lazy~
-  name: 小宇
-  url: https://www.xiaoyv404.top/
-- avatar: https://s2.loli.net/2022/06/12/RpGChkMjcwIOAaJ.jpg
-  blog: 大蛋糕的烘焙坊
-  color: '#f5c979'
-  desc: 一个屑初二学生的小窝
-  name: Big_Cake
-  url: https://bigcake.cakemc.top
-- avatar: https://oss.yzbh.tj.cn/halo/avatar.png
-  blog: Py’s Whisper
-  color: '#f5c979'
-  desc: 一秒接过制服，一生志在蓝天！
-  name: Gardenia
-  url: https://whisper.pyliubaolin.top
-- avatar: https://www.asukatea.cc/wp-content/uploads/2022/01/cropped-QQ图片20211210225957.jpg
-  blog: 茗茶の博客
-  color: '#0078e7'
-  desc: 一个热爱分享事务的二次元技术宅博客哦~~~
-  name: 茗茶
-  url: https://www.asukatea.cc/
+links: '[{"avatar":"https://www.yunyoujun.cn/images/avatar.jpg","blog":"云游君的小站","color":"#0078e7","desc":"All at sea.","name":"云游君","url":"https://yunyoujun.cn"},{"avatar":"https://www.lanta.cyou/avatar.png","blog":"Lanta Zone","color":"#FF8000","desc":"Lanta的空间","name":"Lanta Zone","url":"https://www.lanta.cyou/"},{"avatar":"https://www.minept.top/frontend/img/banner-2.jpg","blog":"MPT","color":"#0078e7","desc":"一个免费为MC玩家打造mod/插件的组织","name":"X_huihui","url":"https://www.minept.top/"},{"avatar":"https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg","blog":"XiaoMing''s Blog","color":"#FF8000","desc":"XiaoMing''s Blog","name":"meinming","url":"https://meinming.github.io/"},{"avatar":"https://www.homo.ltd/wp-content/uploads/2022/08/透明底logo.png","blog":"homo小站","color":"#0078e7","desc":"一个优质资源分享的小站","name":"homo","url":"https://www.homo.ltd/"},{"avatar":"https://yuesekaer.com/favicon.ico","blog":"yuesekaer小站","color":"#0078e7","desc":"全新的开放,严谨,优秀为一体的优质绿色电脑软件分享小站","name":"yuesekaer","url":"https://yuesekaer.com"},{"avatar":"https://cdn.chs.pub/xy404/avatar-512x512.webp","blog":"小宇の日常","color":"#0078e7","desc":"Happy lazy~","name":"小宇","url":"https://www.xiaoyv404.top/"},{"avatar":"https://s2.loli.net/2022/06/12/RpGChkMjcwIOAaJ.jpg","blog":"大蛋糕的烘焙坊","color":"#f5c979","desc":"一个屑初二学生的小窝","name":"Big_Cake","url":"https://bigcake.cakemc.top"},{"avatar":"https://oss.yzbh.tj.cn/halo/avatar.png","blog":"Py’s Whisper","color":"#f5c979","desc":"一秒接过制服，一生志在蓝天！","name":"Gardenia","url":"https://whisper.pyliubaolin.top"},{"avatar":"https://www.asukatea.cc/wp-content/uploads/2022/01/cropped-QQ图片20211210225957.jpg","blog":"茗茶の博客","color":"#0078e7","desc":"一个热爱分享事务的二次元技术宅博客哦~~~","name":"茗茶","url":"https://www.asukatea.cc/"},{
+  “url”: “https://blog.xsnetw.cf”, “avatar”: “https://blog.xsnetw.cf/images/avatar.jpg”,
+  “name”: “小星鑫233”, “blog”: “SinGO博客”, “desc”: “害怕孤独，但又享受孤独”, }]'
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
