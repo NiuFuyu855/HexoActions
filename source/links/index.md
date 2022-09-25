@@ -74,13 +74,14 @@ links:
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
-updated: 2022-09-25 13:00:46
+updated: 2022-09-25 13:14:57
 ---
 ## Qexo友链
 
-<div id="friends-api"></div>
-<script src="https://cdn.jsdelivr.net/gh/Fgaoxing/blog-cdn@main/source/js/friends-api.js"></script>
-<script>qexo_friend_api("niufuyu114514homo1919810","qexo.niufuyu.top");</script>
+<div id="links"></div>
+<link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css">
+<script src="https://unpkg.com/qexo-friends/yun/friends.js"></script>
+<script>loadQexoFriends("links", "网址", "主题色（带#）")</script>
 
 ## 添加友链
 
@@ -120,3 +121,5 @@ updated: 2022-09-25 13:00:46
 当添加完你的申请，我会把你的申请评论给删除
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.css"/>
+
+<link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
