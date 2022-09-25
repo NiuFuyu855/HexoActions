@@ -421,6 +421,10 @@ social:
     link: mailto:me@off.cx
     icon: ri:mail-line
     color: '#8E71C1'
+  - name: Talks
+    link: /talks
+    icon: ri:kakao-talk-line
+    color: black
   - name: Travelling
     link: https://travellings.cn
     icon: ri:train-line
