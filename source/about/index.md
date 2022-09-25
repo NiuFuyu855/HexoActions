@@ -1,7 +1,7 @@
 ---
 date: 2022-06-05 18:55:00
 title: 关于
-updated: 2022-09-24 21:56:25
+updated: 2022-09-25 15:19:59
 ---
 # 关于
 
@@ -13,7 +13,7 @@ Hei! Guy!
 无论你身处何方，这个小博客都欢迎你的到来。
 啥？我为啥要搭建这个博客？
 
-眼前的这个不起眼的小博客大致始于 2021 年年末到 2022 年年初。历经了很多次改版。原定的是一个基于 WordPress 的软件资源站或者开源镜像站，但实在是buy不起一台VPS，所以就只能想着弄一个静态博客吧，也好用 Github Pages/Vercel/CloudFlare Pages/Netlify 进行部署，也是不需要 money 的，就很棒(~~白嫖万岁~~!)[doge]。一段时间后，我我康到了 [Lanta的Zone](https://www.lanta.cyou/ "Lanta的Zone")，然后就一直想整一个像他那样的，于是我就开始使用 Hexo + `hexo-theme-yun` 尝试部署，，经过了~~~七七四十九天~~~(bushi，终于整好了，并且进行写作，沿用至今。
+眼前的这个不起眼的小博客大致始于 2021 年年末到 2022 年年初。历经了很多次改版。原定的是一个基于 WordPress 的软件资源站或者开源镜像站，但实在是buy不起一台VPS，所以就只能想着弄一个静态博客吧，也好用 Github Pages/Vercel/CloudFlare Pages/Netlify 进行部署，也是不需要 money 的，就很棒(~~白嫖万岁~~!)[doge]。一段时间后，我我康到了 [Lanta的Zone](https://www.lanta.cyou/ "Lanta的Zone")，然后就一直想整一个像他那样的，于是我就开始使用 Hexo + `hexo-theme-yun` 尝试部署，，经过了~~七七四十九天~~，终于整好了，并且进行写作，沿用至今。
 
 博客使用 [jsDelivr](https://www.jsdelivr.com/) 静态资源公共库中的部分静态资源作为 cdn。
 
