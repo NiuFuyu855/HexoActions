@@ -109,7 +109,7 @@ updated: 2022-09-25 11:45:14
 
 ## 自动申请（试运行）
 
-
-<div id="friends-api"></div>
-<script src="https://cdn.jsdelivr.net/gh/Fgaoxing/blog-cdn@main/source/js/friends-api.js"></script>
-<script>qexo_friend_api("friends-api","qexo.niufuyu.top");</script>
+<div id="qexo-friends"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.css"/>
+<script src="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.js"></script>
+<script>loadQexoFriends("qexo-friends", "qexo.niufuyu.top")</script>
