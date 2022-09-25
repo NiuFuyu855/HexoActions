@@ -81,16 +81,12 @@ medium_zoom: true
 
 # 全局音乐播放器
 aplayer:
-  cdn: https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js
-  style_cdn: https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css
-  meting_cdn: https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js
-  asset_inject: false
   global: true
-  meting: true
+  meting: false
   # https://github.com/metowolf/MetingJS/tree/v1.2#option
   widget:
     enable: true
-    autoplay: true
+    autoplay: false
     # theme: "#2980b9"
     loop: all
     order: list
@@ -98,7 +94,7 @@ aplayer:
     volume: 0.7
     mutex: true
     lrcType: 0
-    listFolded: false
+    listFolded: true
     listMaxHeight: 340px
     audio:
       - name: 星茶会
@@ -106,7 +102,7 @@ aplayer:
         url: https://cdn.jsdelivr.net/gh/NiuFuyu855/RandomMusic/星茶会.mp3
         cover: https://p3-sign.bdxiguaimg.com/tos-cn-i-0026/8eb02d4edcac460fbb3157351086bbd3~tplv-pk90l89vgd-crop-center:864:486.jpeg?x-expires=1692369361&x-signature=NdpbiymD8pOYoxdMtrHSTypV7OE%3D
     meting:
-      enable: true
+      enable: false
       id: 492390949
       server: netease
       type: playlist
