@@ -233,6 +233,7 @@ footer:
   beian:
     enable: true
     icp: 浙ICP备13034790号-3
+    icp: 苏ICP备11451400号-1919810
 
 google_analytics:
   enable: false
