@@ -76,13 +76,6 @@ tip: 友链加载中～如失败请刷新重试～
 title: 友链
 updated: 2022-09-25 13:14:57
 ---
-## Qexo友链
-
-<div id="links"></div>
-<link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css">
-<script src="https://unpkg.com/qexo-friends/yun/friends.js"></script>
-<script>loadQexoFriends("links", "qexo.niufuyu.op", "#0078e7")</script>
-
 ## 添加友链
 
 如果你想跟我添加友链，请检查自己的网站是否满足以下需求
@@ -121,5 +114,8 @@ updated: 2022-09-25 13:14:57
 当添加完你的申请，我会把你的申请评论给删除
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.css"/>
+
+<link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
+
 
 <link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css"/>
