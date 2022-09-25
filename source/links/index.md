@@ -74,7 +74,7 @@ links:
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
-updated: 2022-09-25 15:10:31
+updated: 2022-09-25 15:19:34
 ---
 ## Qexo中的友链
 
@@ -119,5 +119,3 @@ updated: 2022-09-25 15:10:31
 每周一次将会维护一次博客，我会尽快处理你的申请
 
 当添加完你的申请，我会把你的申请评论给删除
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.css"/>
