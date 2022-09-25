@@ -232,8 +232,7 @@ footer:
         <a href="https://hexo.io/zh-cn/index.html" target="_blank" style="top:13px" title="本站基于Hexo框架搭建"><img src="https://off.cx/img/hexo.png" data-src="https://off.cx/img/hexo.png" alt="hexo" height="30"></a></br>
   beian:
     enable: true
-    icp: 浙ICP备13034790号-3
-    icp: 苏ICP备11451400号-1919810
+    icp: 浙ICP备13034790号-3 & 苏ICP备11451400号-1919810
 
 google_analytics:
   enable: false
