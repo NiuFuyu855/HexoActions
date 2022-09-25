@@ -81,7 +81,7 @@ updated: 2022-09-25 13:14:57
 <div id="links"></div>
 <link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css">
 <script src="https://unpkg.com/qexo-friends/yun/friends.js"></script>
-<script>loadQexoFriends("links", "网址", "主题色（带#）")</script>
+<script>loadQexoFriends("links", "qexo.niufuyu.op", "#0078e7")</script>
 
 ## 添加友链
 
