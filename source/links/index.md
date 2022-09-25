@@ -76,6 +76,13 @@ tip: 友链加载中～如失败请刷新重试～
 title: 友链
 updated: 2022-09-25 15:10:31
 ---
+## Qexo中的友链
+
+<div id="qexo-friends"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.css"/>
+<script src="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.js"></script>
+<script>loadQexoFriends("qexo-friends", "https://qexo.niufuyu.top")</script>
+
 ## 添加友链
 
 如果你想跟我添加友链，请检查自己的网站是否满足以下需求
@@ -113,7 +120,4 @@ updated: 2022-09-25 15:10:31
 
 当添加完你的申请，我会把你的申请评论给删除
 
-<div id="qexo-friends"></div>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.css"/>
-<script src="https://cdn.jsdelivr.net/npm/qexo-static@1.1.3/hexo/friends/friends.js"></script>
-<script>loadQexoFriends("qexo-friends", "https://qexo.niufuyu.top")</script>
