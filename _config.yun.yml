@@ -214,8 +214,9 @@ leancloud_visitors:
   server_url: https://xtzijrhq.api.lncldglobal.com
 
 # head头部资源
-#head: 
-#  css: 
+head: 
+  css: 
+    custom: /css/waline-ua.css
 #  js: 
 
 # 页脚
