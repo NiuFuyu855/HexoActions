@@ -23,6 +23,11 @@ banner:
 # favicon: /favicon.ico
 favicon: /favicon.jpg
 
+# 主题颜色
+#colors:
+#  primary: "#F2BC57"
+#  bg: "#F2F2F2"
+
 # 头像设置
 avatar:
   url: /avatar.jpg
