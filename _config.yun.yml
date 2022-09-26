@@ -187,8 +187,9 @@ algolia_search:
 giscus:
   enable: true
   repo: NiuFuyu855/HexoActions
-  repo-id:
-  category-id:
+  repo-id: R_kgDOHe0j7Q
+  category: Blog Comment
+  category-id: DIC_kwDOHe0j7c4CRoYU
   mapping: pathname
   reactions-enabled: 1
   emit-metadata: 0
