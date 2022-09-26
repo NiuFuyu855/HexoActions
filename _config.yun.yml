@@ -145,11 +145,12 @@ notice:
   enable: true
   content: Hi. Welcome to my 屑破站!qwq <br>初二已经浑浑噩噩地混过去了（bushi，已经初三了，将来的一年里可能不会更新文章了（但也不一定），要中考了qwq</br><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1424964170&auto=0&height=66"></iframe></br> <br>不过我相信光</br><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1461256747&auto=0&height=66"></iframe></br> <br>Hypixel Server</br> <br><iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.hypixel.net/embed" width="728" height="90"></iframe></br>
 
-# waline
+# Chat
 comment:
   candidates:
     - waline
     - giscus
+#   - utterances
   tips:
     - 欢迎留言，博主不会每天都看评论（
 
@@ -162,9 +163,31 @@ waline:
     - https://fastly.jsdelivr.net/gh/walinejs/emojis@latest/bilibili/
     - https://fastly.jsdelivr.net/gh/walinejs/emojis@latest/weibo/
     - https://fastly.jsdelivr.net/gh/walinejs/emojis@latest/qq/
+    - https://jsd.onmicrosoft.cn/npm/@waline/emojis@latest/tieba/
+    - https://jsd.onmicrosoft.cn/gh/walinejs/emojis@latest/bmoji/
   locale:
     placeholder: 填写邮箱，可以收到回复通知哦～
   requiredMeta: [nick]
+
+# https://github.com/laymonage/giscus
+giscus:
+  enable: true
+  repo: NiuFuyu855/HexoActions
+  repo-id: R_kgDOHe0j7Q
+  category: Blog Comment
+  category-id: DIC_kwDOHe0j7c4CRoYU
+  mapping: pathname
+  reactions-enabled: 1
+  emit-metadata: 0
+  theme: light
+
+# https://utteranc.es/
+utterances:
+  enable: false
+  repo: NiuFuyu855/HexoActions
+  issue-term: pathname
+  # label: comment
+  theme: github-light
 
 # 默哀
 mourn:
@@ -182,18 +205,6 @@ algolia_search:
   enable: true
   hits:
     per_page: 10 # the number of search results per page
-
-# https://github.com/laymonage/giscus
-giscus:
-  enable: true
-  repo: NiuFuyu855/HexoActions
-  repo-id: R_kgDOHe0j7Q
-  category: Blog Comment
-  category-id: DIC_kwDOHe0j7c4CRoYU
-  mapping: pathname
-  reactions-enabled: 1
-  emit-metadata: 0
-  theme: light
 
 # 文章访客统计
 leancloud_visitors:
