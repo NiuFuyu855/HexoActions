@@ -223,16 +223,16 @@ head:
   css: 
     custom: /css/waline-ua.css
   js: 
-    base: <!-- Clarity tracking code for https://off.cx/ -->
-<script>
+    base: <script>
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
         t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "du740uqjar");
-</script>
-    async:
-    defer:
+    </script>  # 必须提前加载并执行。
+    async:  # 异步加载，加载完成后立即执行。
+    defer:  # 异步加载资源，但最后执行。
+
 # 页脚
 footer:
   since: 2022
