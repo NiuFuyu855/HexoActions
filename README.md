@@ -1,5 +1,9 @@
 # HexoActions
 A blog powered by Hexo and Vercel.
+
+给个Star支持一下吧！
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niufuyu855)](https://github.com/Niufuyu855/HexoActions)
 [![OSCS Status](https://www.oscs1024.com/platform/badge/NiuFuyu855/HexoActions.svg?size=small)](https://www.oscs1024.com/project/NiuFuyu855/HexoActions?ref=badge_small)
 
 <p align="center">
