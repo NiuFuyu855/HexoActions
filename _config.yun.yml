@@ -263,6 +263,9 @@ footer:
         <a href="https://hexo.io/zh-cn/index.html" target="_blank" style="top:13px" title="本站基于Hexo框架搭建"><img src="https://off.cx/img/hexo.png" data-src="https://off.cx/img/hexo.png" alt="hexo" height="30"></a>
         <a href="https://github.com/Qexo/Qexo" target="_blank" style="top:13px" title="本站以Qexo作为后台辅助管理"><img src="https://unpkg.com/qexo-static@1.4.0/assets/img/brand/qexo.png" alt="Qexo" height="30"></a>
         <a href="https://www.west.cn/" target="_blank" style="top:13px" title="本站由西部数码提供域名服务"><img src="https://www.west.cn/images2016/logo.jpg" data-src="https://www.west.cn/images2016/logo.jpg" alt="西部数码" height="30"> </a></br>
+    
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 
   beian:
     enable: true
