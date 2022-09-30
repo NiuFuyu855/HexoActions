@@ -11,7 +11,7 @@ env:
   GIT_USER: NiuFuyu855
   GIT_EMAIL: 3327223191@qq.com
   DEPLOY_REPO: NiuFuyu855/Niute-Fony
-  DEPLOY_BRANCH: main
+  DEPLOY_BRANCH: html
 
 jobs:
   build:
