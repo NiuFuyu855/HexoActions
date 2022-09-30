@@ -121,9 +121,9 @@ theme: yun
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  - type: git
-    repo: git@github.com:NiuFuyu855/Niute-Fony.git
-    branch: html
+#  - type: git
+#    repo: git@github.com:NiuFuyu855/Niute-Fony.git
+#    branch: main
   - type: ali-oss
     region: oss-cn-hongkong
     accessKeyId: LTAI5tRJbwv4qeQcFx8Gbpfe
