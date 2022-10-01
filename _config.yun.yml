@@ -267,7 +267,9 @@ footer:
     <div id="cc-myssl-id">
       <a href="https://myssl.com/off.cx?from=mysslid"><img src="https://static.myssl.com/res/images/myssl-id3.png" alt="" style="max-height:50px;display:block;margin:0 auto"></a>
     </div>
-    
+    <!-- 51.LA统计 -->
+    <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js?id=JpenND6UOGk9I9kD&ck=JpenND6UOGk9I9kD&autoTrack=true&hashMode=true"></script>
+    <a target="_blank" title="51la网站统计" href="https://v6.51.la/land/JpenND6UOGk9I9kD"><img src="https://sdk.51.la/icon/1-1.png"></a>
     <!-- 不蒜子访客统计 -->
     <!-- <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> -->
     <!-- <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span> -->
