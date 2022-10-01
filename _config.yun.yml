@@ -104,7 +104,8 @@ aplayer:
     audio:
       - name: 星茶会
         artist: 灰澈
-        url: https://cdn.jsdelivr.net/gh/NiuFuyu855/RandomMusic/星茶会.mp3
+        #url: https://cdn.jsdelivr.net/gh/NiuFuyu855/RandomMusic/星茶会.mp3
+        url: https://cz.cyou/gh/https://raw.githubusercontent.com/NiuFuyu855/RandomMusic/main/%E6%98%9F%E8%8C%B6%E4%BC%9A.mp3
         cover: https://p3-sign.bdxiguaimg.com/tos-cn-i-0026/8eb02d4edcac460fbb3157351086bbd3~tplv-pk90l89vgd-crop-center:864:486.jpeg?x-expires=1692369361&x-signature=NdpbiymD8pOYoxdMtrHSTypV7OE%3D
     meting:
       enable: false
