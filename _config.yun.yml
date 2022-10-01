@@ -223,7 +223,7 @@ head:
   css: 
     custom: https://bigcake.cakemc.top/css/waline-ua.css
   js: 
-    base:  # 必须提前加载并执行。
+    base: document.write("<script>!function(p){\"use strict\";!function(t){var s=window,e=document,i=p,c=\"\".concat(\"https:\"===e.location.protocol?\"https://\":\"http://\",\"sdk.51.la/js-sdk-pro.min.js\"),n=e.createElement(\"script\"),r=e.getElementsByTagName(\"script\")[0];n.type=\"text/javascript\",n.setAttribute(\"charset\",\"UTF-8\"),n.async=!0,n.src=c,n.id=\"LA_COLLECT\",i.d=n;var o=function(){s.LA.ids.push(i)};s.LA?s.LA.ids&&o():(s.LA=p,s.LA.ids=[],o()),r.parentNode.insertBefore(n,r)}()}({id:\"JpenND6UOGk9I9kD\",ck:\"JpenND6UOGk9I9kD\"});</script>") # 必须提前加载并执行。
     async:  # 异步加载，加载完成后立即执行。
     defer:  # 异步加载资源，但最后执行。
 
@@ -268,8 +268,8 @@ footer:
       <a href="https://myssl.com/off.cx?from=mysslid"><img src="https://static.myssl.com/res/images/myssl-id3.png" alt="" style="max-height:50px;display:block;margin:0 auto"></a>
     </div>
     <!-- 51.LA统计 -->
-    <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-    <script>LA.init({id: JpenND6UOGk9I9kD,ck: JpenND6UOGk9I9kD})</script>
+    <!-- <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script> -->
+    <!-- <script>LA.init({id: "JpenND6UOGk9I9kD",ck: "JpenND6UOGk9I9kD"})</script> -->
     
     <!-- 不蒜子访客统计 -->
     <!-- <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> -->
