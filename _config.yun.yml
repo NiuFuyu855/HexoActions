@@ -106,7 +106,7 @@ aplayer:
         artist: 灰澈
         #url: https://cdn.jsdelivr.net/gh/NiuFuyu855/RandomMusic/星茶会.mp3
         #url: https://cz.cyou/gh/https://raw.githubusercontent.com/NiuFuyu855/RandomMusic/main/%E6%98%9F%E8%8C%B6%E4%BC%9A.mp3
-        url: https://m10.music.126.net/20221001152344/dc3a108144d0c41c5fdf41cf2b347a2f/ymusic/2d31/cbe1/b405/9694012993255d512f94cb24e8d760bd.mp3
+        url: https://cdn.off.cx/music/%E6%98%9F%E8%8C%B6%E4%BC%9A.mp3
         cover: https://p3-sign.bdxiguaimg.com/tos-cn-i-0026/8eb02d4edcac460fbb3157351086bbd3~tplv-pk90l89vgd-crop-center:864:486.jpeg?x-expires=1692369361&x-signature=NdpbiymD8pOYoxdMtrHSTypV7OE%3D
     meting:
       enable: false
