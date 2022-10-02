@@ -225,7 +225,7 @@ head:
   css: 
     custom: https://bigcake.cakemc.top/css/waline-ua.css
   js: 
-    base: /js/widget.js # 必须提前加载并执行。
+    base: /js/widget.css # 必须提前加载并执行。
     async:  # 异步加载，加载完成后立即执行。
     defer:  # 异步加载资源，但最后执行。
 
