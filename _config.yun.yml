@@ -224,8 +224,9 @@ leancloud_visitors:
 head: 
   css: 
     custom: https://bigcake.cakemc.top/css/waline-ua.css
+    widget: /css/widget.css
   js: 
-    base: /js/widget.css # 必须提前加载并执行。
+    base:  # 必须提前加载并执行。
     async:  # 异步加载，加载完成后立即执行。
     defer:  # 异步加载资源，但最后执行。
 
