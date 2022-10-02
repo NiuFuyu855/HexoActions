@@ -225,7 +225,14 @@ head:
   css: 
     custom: https://bigcake.cakemc.top/css/waline-ua.css
   js: 
-    base:  # 必须提前加载并执行。
+    base: .widget {
+    display: inline-block;
+    overflow: hidden;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;
+    font-size: 0;
+    line-height: 0;
+    white-space: nowrap;
+  } # 必须提前加载并执行。
     async:  # 异步加载，加载完成后立即执行。
     defer:  # 异步加载资源，但最后执行。
 
