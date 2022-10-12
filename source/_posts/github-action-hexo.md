@@ -9,7 +9,8 @@ tags:
 - 博客
 title: 使用 Github Actions 自动部署 Hexo
 updated: '2022-08-17 11:26:03'
----以后就不需要再自己部署博客了
+---
+以后就不需要再自己部署博客了
 
 ![Hexo & Github](https://pic.rmb.bdstatic.com/bjh/a5a79c32320475bd69aed54f5371065a.png "Hexo & Github")
 
@@ -19,9 +20,6 @@ updated: '2022-08-17 11:26:03'
 # 前言
 
 搭建动态博客需要 VPS ，而对于像我这样没 Money 又想耍酷整个博客的学生党来说是非常不友好的（不过如果你是学生，可以尝试一下学生机，听说挺便宜的），所以这篇文章就诞生了！
-
-
-
 
 # 准备工作
 
