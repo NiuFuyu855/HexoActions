@@ -448,15 +448,15 @@ social:
     icon: ri:bilibili-line
     color: '#FF8EB3'
   - name: Twitter
-    link: https://twitter.com/niufuyu123
+    link: https://twitter.com/NiuFuyu_CN
     icon: ri:twitter-line
     color: '#1da1f2'
-  # - name: Telegram
-  #   link: https://t.me/yunyoujun_group
-  #   icon: ri:telegram-line
-  #   color: "#0088CC"
+  - name: Telegram
+    link: https://t.me/NIUTECHAT_CN
+    icon: ri:telegram-line
+    color: "#0088CC"
   - name: Telegram Channel
-    link: https://t.me/+fniY9CTR8bphZDVl
+    link: https://t.me/NIUTE_CN
     # icon: ri:telegram-fill
     icon: ri:telegram-line
     color: '#0088CC'
