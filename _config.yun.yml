@@ -460,10 +460,10 @@ social:
     # icon: ri:telegram-fill
     icon: ri:telegram-line
     color: '#0088CC'
-  #- name: Discord
-  #  link: https://discord.gg/nd3mPkU5j8
-  #  icon: ri:discord-line
-  #  color: '#5A6DE2'
+  - name: Discord
+    link: https://discord.gg/8nNJaBJc5G
+    icon: ri:discord-line
+    color: '#5A6DE2'
   - name: E-Mail
     link: mailto:me@off.cx
     icon: ri:mail-line
