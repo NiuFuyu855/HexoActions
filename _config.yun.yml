@@ -451,6 +451,26 @@ social:
     link: https://twitter.com/NiuFuyu_CN
     icon: ri:twitter-line
     color: '#1da1f2'
+  - name: Instagram
+    link: https://www.instagram.com/niufuyu_cn/
+    icon: ri:instagram-line
+    color: '#FF8EB3'
+  - name: FaceBook
+    link: https://www.facebook.com/niufuyu
+    icon: ri:facebook-circle-line
+    color: blue
+  - name: Reddit
+    link: https://www.reddit.com/user/NiuFuyu
+    icon: ri:reddit-line
+    color: red
+  - name: Twitch
+    link: https://www.twitch.tv/nameflying_cn
+    icon: ri:twitch-line
+    color: purple
+  - name: NameMC
+    link: https://zh-cn.namemc.com/profile/NameFlying.1
+    icon: mdi:minecraft
+    color: green
   - name: Telegram
     link: https://t.me/NIUTECHAT_CN
     icon: ri:telegram-line
