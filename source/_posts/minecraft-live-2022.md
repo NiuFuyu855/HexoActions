@@ -7,11 +7,15 @@ sticky: ''
 tags:
 - Minecraft
 title: 关于我 Minecraft Live 投票发生服务器错误这件事
-updated: '2022-10-15 21:37:38'
+updated: '2022-10-23 20:16:41'
 ---
 断更理由（~~狡辩ing~~）：最近实在是太忙了，基本上每天作业都得写到12:00，甚至有时候要到次日1:00。
 
 最近 [Minecraft](https://www.minecraft.net/ "Minecraft") 举办了2022年的 [Minecraft Live](https://www.minecraft.net/zh-hans/live) ，就在美国东部夏令时间 10 月 15 日 中午 12 点直播（虽然我没看）。
+
+![Minecraft Live](https://cdn.off.cx/pic/minecraft-live.webp "Minecraft Live")
+
+<!-- more -->
 
 ![Minecraft Live 2022](https://cdn.off.cx/pic/minecraft-live-2022.png "Minecraft Live 2022")
 
