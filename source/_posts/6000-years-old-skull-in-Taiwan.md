@@ -1,13 +1,17 @@
 ---
 abbrlink: 6000-years-old-skull-in-Taiwan
-categories: []
+categories:
+- - 日常
 date: '2022-10-23 12:24:00'
 sticky: ''
-tags: []
+tags:
+- 科技
 title: 台湾洞穴发现6000年前头骨或证实原住民传说
-updated: '2022-10-23 12:24:03'
+updated: '2022-10-23 12:34:43'
 ---
 ![台湾洞穴发现6000年前头骨](https://cdn.off.cx/pic/6000-year-old-skull.jpg "台湾洞穴发现6000年前头骨")
+
+<!-- more -->
 
 5号洞前陶人遗骸（1）及前陶层代表性石器，包括小马的碎石器（2）、片状工具（3）、石英细料石器（4） （在 Huang 和 Chen 1990 之后）。
 
