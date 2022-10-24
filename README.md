@@ -1,5 +1,7 @@
 # HexoActions
-A blog powered by Hexo and Vercel.
+A blog powered by Hexo and Vercel and Netlify.
+
+[![Netlify](https://img.shields.io/netlify/4acb3c9b-fbcd-488e-be70-18942eb2669f?logo=netlify)](https://niute.netlify.app)
 
 给个Star支持一下吧！
 
