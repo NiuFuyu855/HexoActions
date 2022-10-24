@@ -10,6 +10,8 @@ A blog powered by Hexo and Vercel and Netlify.
 
 ![Star History Chart](https://api.star-history.com/svg?repos=NiuFuyu855/HexoActions&type=Date)
 
+---
+
 <p align="center">
 <img width="128" src="https://cdn.jsdelivr.net/gh/YunYouJun/hexo-theme-yun/docs/public/logo.gif">
 </p>
