@@ -29,7 +29,7 @@ links:
   desc: XiaoMing's Blog
   name: meinming
   url: https://meinming.github.io/
-- avatar: https://loxue.cn/wp-content/uploads/2022/09/%E9%9B%AA-150x150.png
+- avatar: https://loxue.cn/image/favicon.png
   blog: 落雪小站
   color: '#0078e7'
   desc: 技术软件分享博客
@@ -74,7 +74,7 @@ links:
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
-updated: 2022-11-05 18:22:35
+updated: 2022-11-05 23:01:10
 ---
 ## Qexo中的友链
 
