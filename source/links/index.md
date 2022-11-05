@@ -65,16 +65,16 @@ links:
   desc: 一个热爱分享事务的二次元技术宅博客哦~
   name: 茗茶
   url: https://www.asukatea.cc/
-- avatar: https://blog.xsnetw.cf/images/avatar.jpg
+- avatar: https://blog.xsnet.eu.org/images/avatar.jpg
   blog: SinGO博客
   color: '#0078e7'
   desc: 害怕孤独，但又享受孤独
   name: 小星鑫233
-  url: https://blog.xsnetw.cf
+  url: https://blog.xsnet.eu.org/
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
-updated: 2022-10-12 23:53:51
+updated: 2022-11-05 18:22:35
 ---
 ## Qexo中的友链
 
