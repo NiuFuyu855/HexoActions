@@ -1,7 +1,7 @@
 ---
 date: 2022-06-05 18:55:00
 title: 关于
-updated: 2022-09-25 15:19:59
+updated: 2022-11-06 18:40:09
 ---
 # 关于
 
@@ -27,7 +27,7 @@ Hei! Guy!
 
 <a href="https://travellings.cn/" target="_blank" rel="noopener" title="开往-友链接力" data-pjax-state=""><img src="https://travellings.cn/assets/logo.gif" alt="开往-友链接力" width="120"></a>
 
-#### 本站访问
+### 本站访问
 
 <script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=rKleglShzRU4NQyRTpgmivmrH0leZTSS1hlzjAV56Gk&cl=ffffff&w=a"></script>
 
@@ -65,7 +65,7 @@ Hei! Guy!
 
 "Orzmic")
 
-#### 亿些联系方式
+### 亿些联系方式
 
 [Telegram](https://t.me/NiuFuyu855 "啥也不是の屑")
 
@@ -79,7 +79,18 @@ Hei! Guy!
 
 欢迎联系我qwq！
 
-#### 结尾
+### 一些赞助我的方式
+
+使用[爱发电](https://afdian.net/a/CNHOMO)
+
+使用[Paypal](https://paypal.me/niufuyu855)
+
+
+
+
+
+
+## 结尾
 
 彳亍，就这样吧......
 
