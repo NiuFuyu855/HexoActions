@@ -156,7 +156,7 @@ notice:
 comment:
   candidates:
     - waline
-    - giscus
+    # - giscus
 #   - utterances
   tips:
     - 欢迎留言，博主不会每天都看评论（
