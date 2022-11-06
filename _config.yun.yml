@@ -177,24 +177,24 @@ waline:
   requiredMeta: [nick]
 
 # https://github.com/laymonage/giscus
-giscus:
-  enable: true
-  repo: NiuFuyu855/HexoActions
-  repo-id: R_kgDOHe0j7Q
-  category: Blog Comment
-  category-id: DIC_kwDOHe0j7c4CRoYU
-  mapping: pathname
-  reactions-enabled: 1
-  emit-metadata: 0
-  theme: light
+#giscus:
+#  enable: true
+#  repo: NiuFuyu855/HexoActions
+#  repo-id: R_kgDOHe0j7Q
+#  category: Blog Comment
+#  category-id: DIC_kwDOHe0j7c4CRoYU
+#  mapping: pathname
+#  reactions-enabled: 1
+#  emit-metadata: 0
+#  theme: light
 
 # https://utteranc.es/
-utterances:
-  enable: false
-  repo: NiuFuyu855/HexoActions
-  issue-term: pathname
-  # label: comment
-  theme: github-light
+#utterances:
+#  enable: false
+#  repo: NiuFuyu855/HexoActions
+#  issue-term: pathname
+#  # label: comment
+#  theme: github-light
 
 # 默哀
 mourn:
