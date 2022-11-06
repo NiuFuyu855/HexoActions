@@ -1,5 +1,5 @@
 # HexoActions
-A blog powered by Hexo and Vercel and Netlify.
+A blog powered by Hexo, Vercel and Netlify.
 
 [![Netlify](https://img.shields.io/netlify/4acb3c9b-fbcd-488e-be70-18942eb2669f?logo=netlify)](https://niute.netlify.app)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c464c517-2eb4-4569-8078-6a8dd739c6a0/deploy-status)](https://app.netlify.com/sites/niute/deploys)
