@@ -6,11 +6,12 @@ categories:
   - Markdown
 date: '2022-06-06 20:20:00'
 permalink: posts/how-to-use-markdown/
+sticky: ''
 tags:
 - 教程
 - Markdown
 title: MarkDown基本语法
-updated: '2022-09-18 20:29:33'
+updated: '2022-11-08 21:58:42'
 ---
 ![Markdown](https://off.cx/img/markdown.jpg "Markdown")
 
@@ -119,7 +120,7 @@ n个…
 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加
 
 ###效果:
-![就是这样](https://pic.niufuyu.top/img/rnwtq.jpg "嗨嗨嗨")
+![就是这样](https://cdn.off.cx/pic/rnwtq.jpg "嗨嗨嗨")
 
 上传本地图片直接点击导航栏的图片标志，选择图片即可
 markdown格式追求的是简单、多平台统一。那么图片的存储就是一个问题，需要用图床，提供统一的外链，这样就不用在不同的平台去处理图片的问题了。才能做到书写一次，各处使用。
