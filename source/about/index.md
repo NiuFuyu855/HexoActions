@@ -41,10 +41,9 @@ Hei! Guy!
 
 ### 游戏
 
-下面是我玩过的游戏列表。最常玩的是 `Minecraft Java Edition` 中多人联机（即服务器）的`Hypixel`的小游戏，最爱玩里面的起床战争（虽然很菜，但又爱玩（），我也同样是个又菜又爱玩的音游人（
+下面是我玩过的游戏列表。最常玩的是 `Minecraft Java Edition` 中多人联机（即服务器）的 `Hypixel` 的小游戏，最爱玩里面的起床战争（虽然很菜，但又爱玩（），我也同样是个又菜又爱玩的音游人（
 
 * **Minecraft**
-
   * Java Edition
   * Bedrock Edition
 * **Phigros**
@@ -59,11 +58,9 @@ Hei! Guy!
 
 ![My Mwgif](https://gen.plancke.io/mwgif/NameFlying.gif "My Mwgif")
 
-![Arcaea](https://off.cx/img/Arcaea.jpg)
+![Arcaea](https://off.cx/img/Arcaea.jpg "Arcaea")
 
-![Orzmic](https://off.cx/img/Orzmic.jpg)![Arcaea](https://off.cx/img/Arcaea.jpg "Arcaea")
-
-"Orzmic")
+![Orzmic](https://off.cx/img/Orzmic.jpg"Orzmic")
 
 ### 亿些联系方式
 
