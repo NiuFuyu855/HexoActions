@@ -3,19 +3,19 @@ abbrlink: github-action-hexo
 categories:
 - 技术分享
 date: '2022-08-15 17:52:48'
+sticky: ''
 tags:
 - Hexo
 - Github
 - 博客
 title: 使用 Github Actions 自动部署 Hexo
-updated: '2022-08-17 11:26:03'
+updated: '2022-11-08 22:23:44'
 ---
 以后就不需要再自己部署博客了
 
-![Hexo & Github](https://pic.rmb.bdstatic.com/bjh/a5a79c32320475bd69aed54f5371065a.png "Hexo & Github")
+![Hexo & Github](https://cdn.off.cx/pic/Hexo-Github.png "Hexo & Github")
 
 <!--more-->
-
 
 # 前言
 
