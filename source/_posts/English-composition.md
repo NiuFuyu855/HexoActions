@@ -1,34 +1,44 @@
 ---
-title: 英语作文秘籍
-categories:
-  - 日常
-  - 学习资料
-tags: 学习资料
-# password: 82666
-permalink: posts/English-composition/
 abbrlink: 204b08c2
-date: 2022-06-09 21:15:00
+categories:
+- 日常
+- 学习资料
+date: '2022-06-09 21:15:00'
+permalink: posts/English-composition/
+sticky: ''
+tags:
+- 学习资料
+title: 英语作文秘籍
+updated: '2022-11-08 22:15:56'
 ---
+![English.jpg](https://cdn.off.cx/pic/English.jpg)
 
-![English.jpg](https://pic.niufuyu.top/img/English.jpg)
 <!-- more -->
 
 # 英语作文秘籍
+
 ### 文章开头部分：
+
 Admittedly 无可否认 Apparently 显然的
 In the beginning / To begin with 首先
 As far as I an concerned 就我而言
+
 ### 段落中间部分：
+
 However 然而，无论如何 Meanwhile 同时
 Furthermore 此外 Without doubt 毋庸置疑
 What’s more 另外 As a result 因此
-In addition 此外,而且 
+In addition 此外,而且
 Moreover 此外 What’s worse 更糟的是
 For example, … / …such as… 例如
+
 ### 文章中间开头：
-As is well-known 众所周知 
-In fact / As a matter of fact 事实上 
+
+As is well-known 众所周知
+In fact / As a matter of fact 事实上
+
 ### 文章结尾开头：
+
 To draw a conclusion 总结 Over all / Above all
 As for my ideas 至于我的想法
 As an old saying goes, “…” 正如一句老话所说…
@@ -36,7 +46,9 @@ eg. As an old saying goes, “Actions speak louder than words.”
 2022/5/26 结尾eg. (学校老师教的)
 Above all, as an old saying goes, “Actions speak louder than words.” Only by (*devoting ourselves to) giving a helping hand can the world be better!
 最重要的是，正如一句老话所说，“事实胜于雄辩。”只有（致力于）伸出援助之手，世界才能变得更好！
+
 ### 句型：
+
 1.Not only … but also …
 2.On one hand … on the other hand
 3.be too adj. to do sth.
