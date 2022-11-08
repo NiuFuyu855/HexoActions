@@ -257,4 +257,4 @@ Mg(OH)2 == MgO + H2O Cu(OH)2 == CuO + H2O
 
 2Fe(OH)3 == Fe2O3 + 3H2O 2Al(OH)3 == Al2O3 + 3H2O
 
-[文章出自GuaiJie's Blog](https://blog.guaijie.ml/article/初中化学中考知识点/ "由GuaiJie撰写")
+[文章出自GuaiJie’s Blog](https://blog.guaijie.ml/article/初中化学中考知识点/ "由GuaiJie撰写")
