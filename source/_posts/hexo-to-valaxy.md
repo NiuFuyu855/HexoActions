@@ -8,16 +8,15 @@ tags:
 - Valaxy
 - 迁移
 title: Valaxy —— 快到没边的全新静态博客框架
-updated: '2022-11-06 10:44:09'
+updated: '2022-11-08 21:53:57'
 ---
 ## 前言
 
 最近我看到 [BigCake](https://bigcake.cakemc.top) 在测试 [Valaxy](https://valaxy.site) ，我看他搭的[测试站](https://valaxy.bigcake.cakemc.top)还不错（~~其实就是看上了 [Valaxy](https://valaxy.site) 的翻译功能~~）,听说速度也很快，所以我也想整一个了（
 
-![整一个](https://pic.niufuyu.top/img/rnwtq.jpg "整一个")
+![整一个](https://cdn.off.cx/pic/rnwtq.jpg "整一个")
 
 <!-- more -->
-
 
 ## 开始
 
