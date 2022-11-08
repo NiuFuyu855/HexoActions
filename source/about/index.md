@@ -60,19 +60,19 @@ Hei! Guy!
 
 ![Arcaea](https://off.cx/img/Arcaea.jpg "Arcaea")
 
-![Orzmic](https://off.cx/img/Orzmic.jpg"Orzmic")
+![Orzmic](https://off.cx/img/Orzmic.jpg "Orzmic")
 
 ### 亿些联系方式
 
-[Telegram](https://t.me/NiuFuyu855 "啥也不是の屑")
+[Telegram](https://t.me/NiuFuyu_CN "啥也不是の屑")
 
-[Telegram Channel](https://t.me/+fniY9CTR8bphZDVl)
+[Telegram Channel](https://t.me/Niute_CN)
 
 [QQ](tencent://Message/?Uin=3327223191&websiteName=qzone.qq.com&Menu=yes "啥也不是の屑")
 
-[Twitter](https://twitter.com/niufuyu123)
+[Twitter](https://twitter.com/NiuFuyu_CN)
 
-[Email](mailto:me@niufuyu.top)
+[Email](mailto:me@off.cx)
 
 欢迎联系我qwq！
 
