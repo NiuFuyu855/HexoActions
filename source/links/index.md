@@ -127,10 +127,9 @@ updated: 2022-11-19 11:07:13
 如果你达到了这些要求，可以直接在下方申请
 
 
-<div id="links"></div>
-<link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css">
-<script src="https://unpkg.com/qexo-friends/yun/friends.js"></script>
-<script>loadQexoFriends("links", "网址", "主题色（带#）")</script>
+<div id="friends-api"></div>
+<script src="https://unpkg.com/qexo-friends/friends-api.js"></script>
+<script>qexo_friend_api("friends-api","网址");</script>
 
 
 如果符合要求，我会通过您的友链申请
