@@ -103,6 +103,8 @@ updated: 2022-11-05 23:11:28
 
 ### 申请
 
+#### 常规方法
+
 如果你达到了这些要求，可以直接在下面评论区给我留言
 
 ~~~json
@@ -119,3 +121,13 @@ updated: 2022-11-05 23:11:28
 每周一次将会维护一次博客，我会尽快处理你的申请
 
 当添加完你的申请，我会把你的申请评论给删除
+
+#### Qexo申请（公测ing）
+
+如果你达到了这些要求，可以直接在下方申请
+
+<div id="friends-api"></div>
+<script src="https://cdn.jsdelivr.net/gh/Fgaoxing/blog-cdn@main/source/js/friends-api.js"></script>
+<script>qexo_friend_api("friends-api","qexo.niufuyu.top");</script>
+
+如果符合要求，我会通过您的友链申请
