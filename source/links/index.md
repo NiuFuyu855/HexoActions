@@ -128,6 +128,6 @@ updated: 2022-11-05 23:11:28
 
 <div id="friends-api"></div>
 <script src="https://cdn.jsdelivr.net/gh/Fgaoxing/blog-cdn@main/source/js/friends-api.js"></script>
-<script>qexo_friend_api("friends-api","qexo.niufuyu.top");</script>
+<script>qexo_friend_api("friends-api","https://qexo.niufuyu.top");</script>
 
 如果符合要求，我会通过您的友链申请
