@@ -74,7 +74,7 @@ links:
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
-updated: 2022-11-05 23:11:28
+updated: 2022-11-19 11:07:13
 ---
 ## Qexo中的友链
 
@@ -126,8 +126,11 @@ updated: 2022-11-05 23:11:28
 
 如果你达到了这些要求，可以直接在下方申请
 
-<div id="friends-api"></div>
-<script src="https://cdn.jsdelivr.net/gh/Fgaoxing/blog-cdn@main/source/js/friends-api.js"></script>
-<script>qexo_friend_api("friends-api","https://qexo.niufuyu.top");</script>
+
+<div id="links"></div>
+<link rel="stylesheet" href="https://unpkg.com/qexo-friends/friends.css">
+<script src="https://unpkg.com/qexo-friends/yun/friends.js"></script>
+<script>loadQexoFriends("links", "网址", "主题色（带#）")</script>
+
 
 如果符合要求，我会通过您的友链申请
