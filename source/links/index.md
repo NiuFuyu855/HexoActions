@@ -129,7 +129,7 @@ updated: 2022-11-19 11:07:13
 
 <div id="friends-api"></div>
 <script src="https://unpkg.com/qexo-friends/friends-api.js"></script>
-<script>qexo_friend_api("friends-api","网址");</script>
+<script>qexo_friend_api("friends-api","https://qexo.niufuyu.top");</script>
 
 
 如果符合要求，我会通过您的友链申请
