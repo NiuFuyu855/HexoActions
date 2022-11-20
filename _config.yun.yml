@@ -80,6 +80,11 @@ codeblock:
     light: default
     dark: tomorrow
 
+# 标签云（词云）
+wordcloud:
+  enable: true
+  height: 350
+
 # Medium Zoom 放大预览图片
 # 点击文章图片，放大预览
 medium_zoom: true
