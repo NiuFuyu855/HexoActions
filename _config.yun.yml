@@ -157,6 +157,7 @@ comment:
   candidates:
     - twikoo
     - waline
+    - livere
     # - giscus
     # - utterances
   tips:
@@ -183,6 +184,10 @@ waline:
   locale:
     placeholder: 填写邮箱，可以收到回复通知哦～
   requiredMeta: [nick]
+  
+livere:
+  enable: true
+  uid: MTAyMC81NzY1Ny8zNDEyMA==
 
 # https://github.com/laymonage/giscus
 #giscus:
