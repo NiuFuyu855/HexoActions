@@ -158,9 +158,10 @@ comment:
     - twikoo
     - waline
     # - giscus
-#   - utterances
+    # - utterances
   tips:
     - 欢迎留言，博主不会每天都看评论（
+    - 若您想及时得到回复提醒，建议跳转 Twikoo 评论。
 
 twikoo:
   enable: true
@@ -225,7 +226,7 @@ leancloud_visitors:
   enable: true
   app_id: xtzijrHQv1rgIR3w9ukDbxJq-MdYXbMMI
   app_key: cVLuyWl93M6FHuHKy2hHNvmJ
-  server_url: https://xtzijrhq.api.lncldglobal.com
+  server_url: https://visit.api.off.cx
 
 # head 头部资源
 head: 
