@@ -206,3 +206,32 @@ steam:
     port:
   extra_options:
     key: value
+
+# 首页分类磁贴 1.0(小冰)
+magnet:
+  enable: true
+  priority: 1
+  enable_page: /
+  type: categories
+  devide: 2
+  display:
+    - name: 技术分享
+      display_name: Niuteの技术教程
+      icon: 📚
+    - name: 游戏
+      display_name: 小冰の游戏日常
+      icon: 🎮
+    - name: 日常
+      display_name: Niuteの日常生活
+      icon: 🐱‍👓
+  color_setting:
+    text_color: black
+    text_hover_color: white
+    background_color: "#f2f2f2"
+    background_hover_color: "#b30070"
+  layout:
+    type: id
+    name: recent-posts
+    index: 0
+  temple_html: '<div class="recent-post-item" style="width:100%;height: auto"><div id="catalog_magnet">${temple_html_item}</div></div>'
+  plus_style: ""
