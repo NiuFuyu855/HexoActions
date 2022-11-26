@@ -5,7 +5,7 @@ A blog powered by Hexo, Vercel and Netlify.
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c464c517-2eb4-4569-8078-6a8dd739c6a0/deploy-status)](https://app.netlify.com/sites/niute/deploys)
 [![OSCS Status](https://www.oscs1024.com/platform/badge/NiuFuyu855/HexoActions.svg?size=small)](https://www.oscs1024.com/project/NiuFuyu855/HexoActions?ref=badge_small)
 
-<img src="https://socialify.git.ci/NiuFuyu855/HexoActions/image?description=1&descriptionEditable=%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E5%B0%8F%E5%B0%8F%E5%8D%9A%E5%AE%A2%0A%E6%AC%A2%E8%BF%8E%E5%A4%A7%E5%AE%B6%E6%9D%A5%E4%BA%92%E6%8D%A2%E5%8F%8B%E9%93%BE~&font=Inter&forks=1&logo=https%3A%2F%2Fzgq-inc.github.io%2Foverthefirewall%2Fimage%2Fvpnclient_black.png&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Light" alt="socialify">
+<img src="https://socialify.git.ci/NiuFuyu855/HexoActions/image?description=1&descriptionEditable=A%0ABlog%0Abased%0Aupon%0AHexo.%0AWelcome%0Ato%0Aexchange%0Afriendship%0Alinks~&font=Inter&forks=1&logo=https%3A%2F%2Foff.cx%2Favatar.jpg&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Light" alt="socialify">
 
 给个Star支持一下吧！
 
