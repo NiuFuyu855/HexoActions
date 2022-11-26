@@ -209,7 +209,7 @@ steam:
 
 # 首页分类磁贴 1.0(小冰)
 magnet:
-  enable: true
+  enable: false
   priority: 1
   enable_page: /
   type: categories
@@ -220,7 +220,7 @@ magnet:
       icon: 📚
     - name: 游戏
       display_name: Niuteの游戏日常
-      icon: 🎮
+     icon: 🎮
     - name: 日常
       display_name: Niuteの日常生活
       icon: 🐱‍👓
@@ -235,3 +235,77 @@ magnet:
     index: 0
   temple_html: '<div class="recent-post-item" style="width:100%;height: auto"><div id="catalog_magnet">${temple_html_item}</div></div>'
   plus_style: ""
+
+# footer_beautify
+# 页脚计时器：[Native JS Timer](https://akilar.top/posts/b941af/)
+# 页脚徽标：[Add Github Badge](https://akilar.top/posts/e87ad7f8/)
+footer_beautify:
+  enable:
+    timer: true # 计时器开关
+    bdage: true # 徽标开关
+  priority: 5 #过滤器优先权
+  enable_page: all # 应用页面
+  exclude: #屏蔽页面
+    # - /posts/
+    # - /about/
+  layout: # 挂载容器类型
+    type: id
+    name: footer-wrap
+    index: 0
+  # 计时器部分配置项（看你喜欢哪个，最好下载下来放到自己的项目中不然会增加我网站的负载）
+  # 这是我的  
+  # runtime_js: https://www.fomal.cc/static/js/runtime.js
+  # runtime_css: https://www.fomal.cc/static/css/runtime.min.css 
+  # 这是店长的 
+  runtime_js: https://npm.elemecdn.com/hexo-butterfly-footer-beautify@1.0.0/lib/runtime.js
+  runtime_css: https://npm.elemecdn.com/hexo-butterfly-footer-beautify@1.0.0/lib/runtime.css
+  # 徽标部分配置项
+  swiperpara: 0 #若非0，则开启轮播功能，每行徽标个数
+  bdageitem:
+    - link: https://hexo.io/ #徽标指向网站链接
+      shields: https://img.shields.io/badge/Frame-Hexo-blue?style=flat&logo=hexo #徽标API
+      message: 博客框架为Hexo_v6.3.0 #徽标提示语
+    - link: https://www.yunyoujun.cn/
+      shields: https://img.shields.io/badge/Theme-Yun-6513df?style=flat&logo=bitdefender
+      message: 主题版本Yun_v0.11.4
+    - link: https://www.netlify.app/
+      shields: https://img.shields.io/badge/Hosted-Netlify-brightgreen?style=flat&logo=Netlify
+      message: 本站采用多线部署，主线路托管于Netlify
+#    - link: https://dashboard.4everland.org/
+    # https://img.shields.io/badge/Hosted-4EVERLAND-3FE2C1?style=flat&logo=IPFS
+#      shields: https://img.shields.io/badge/Hosted-4EVERLAND-22DDDD?style=flat&logo=IPFS
+#      message: 本站采用多线部署，备用线路托管于4EVERLAND
+    - link: https://github.com/NiuFuyu855/HexoActions
+      shields: https://img.shields.io/badge/Source-Github-d021d6?style=flat&logo=GitHub
+      message: 本站项目由Github托管
+    - link: http://creativecommons.org/licenses/by-nc-sa/4.0/
+      shields: https://img.shields.io/badge/Copyright-BY--NC--SA%204.0-d42328?style=flat&logo=Claris
+      message: 本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可
+  swiper_css: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.css
+  swiper_js: https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.js
+  swiperbdage_init_js: https://npm.elemecdn.com/hexo-butterfly-footer-beautify/lib/swiperbdage_init.min.js
+
+# hexo-filter-gitcalendar
+gitcalendar:
+  enable: true # 开关
+  priority: 5 #过滤器优先权
+  enable_page: / # 应用页面
+  # butterfly挂载容器
+  layout: # 挂载容器类型
+    type: id
+    name: recent-posts
+    index: 0
+  user: NiuFuyu855 #git用户名
+  apiurl: 'https://github-calendar-api.off.cx'	# 这是我的API，最好自己弄一个
+  minheight:
+    pc: 280px #桌面端最小高度
+    mibile: 0px #移动端最小高度
+  color: "['#ebedf0', '#f1f8ff', '#dbedff', '#c8e1ff', '#79b8ff', '#2188ff', '#0366d6', '#005cc5', '#044289', '#032f62', '#05264c']" #天青色调
+  # "['#d9e0df', '#c6e0dc', '#a8dcd4', '#9adcd2', '#89ded1', '#77e0d0', '#5fdecb', '#47dcc6', '#39dcc3', '#1fdabe', '#00dab9']" # 目前我在用的
+  # "['#e4dfd7', '#f9f4dc', '#f7e8aa', '#f7e8aa', '#f8df72', '#fcd217', '#fcc515', '#f28e16', '#fb8b05', '#d85916', '#f43e06']" #橘黄色调
+  # "['#ebedf0', '#fdcdec', '#fc9bd9', '#fa6ac5', '#f838b2', '#f5089f', '#c4067e', '#92055e', '#540336', '#48022f', '#30021f']" #浅紫色调
+  # "['#ebedf0', '#f0fff4', '#dcffe4', '#bef5cb', '#85e89d', '#34d058', '#28a745', '#22863a', '#176f2c', '#165c26', '#144620']" #翠绿色调
+  # "['#ebedf0', '#f1f8ff', '#dbedff', '#c8e1ff', '#79b8ff', '#2188ff', '#0366d6', '#005cc5', '#044289', '#032f62', '#05264c']" #天青色调
+  container: .recent-post-item(style='width:100%;height:auto;padding:10px;') #父元素容器，需要使用pug语法
+  gitcalendar_css: https://npm.elemecdn.com/hexo-filter-gitcalendar/lib/gitcalendar.css
+  gitcalendar_js: https://npm.elemecdn.com/hexo-filter-gitcalendar/lib/gitcalendar.js	
