@@ -239,11 +239,14 @@ leancloud_visitors:
 # head 头部资源
 head: 
   css: 
-    custom: /css/waline-ua.css
+    waline: /css/waline-ua.css
+    businesscardcss: /css/businesscard.css
   js: 
     base:  # 必须提前加载并执行。
     async:  # 异步加载，加载完成后立即执行。
     defer:  # 异步加载资源，但最后执行。
+      businesscard: /js/businesscard.js
+      loadbusinesscard: /js/load-businesscard.js
 
 # 页脚
 footer:
