@@ -12,16 +12,18 @@ let configs = {
   back3: '123', // 卡背面文本 3
   back4: '4561' // 卡背面文本 4
 }
-  
-let businessCard = BusinessCard.get(configs);
-let positionSelector = 'article';
-console.log(`BusinessCard position selector: ${positionSelector}`);
-console.log('Use BusinessCard configs', configs);
 
-document.addEventListener('DOMContentLoaded', () => {
-  let container = document.createElement('div');
-  container.innerHTML = businessCard;
-  let post = document.querySelector(positionSelector);
-  post.appendChild(container);
-  console.log('Sucessfully loaded BusinessCard!');
-});
+if (window.location.pathname.startsWith('/posts')) {
+  let businessCard = BusinessCard.get(configs);
+  let positionSelector = 'article';
+  console.log(`BusinessCard position selector: ${positionSelector}`);
+  console.log('Use BusinessCard configs', configs);
+
+  document.addEventListener('DOMContentLoaded', () => {
+    let container = document.createElement('div');
+    container.innerHTML = businessCard;
+    let post = document.querySelector(positionSelector);
+    post.appendChild(container);
+    console.log('Sucessfully loaded BusinessCard!');
+  });
+}
