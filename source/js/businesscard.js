@@ -51,7 +51,7 @@
         <div class="business-ccv">
           <label>${back1}</label>
           <div>
-            <a target="_blank" href="${backUrl}">${back2}</a>
+            <a target="_blank" rel="noopener external nofollow noreferrer" href="${backUrl}">${back2}</a>
           </div>
         </div>
         <div class="business-terms">
