@@ -10,7 +10,7 @@ let configs = {
   back2: '欢迎加入【Niuteの交流群】', // 卡背面文本 2
   backUrl: 'https://t.me/NIUTECHAT_CN', // 卡背面文本 2 链接
   back3: 'Use this card to join the channel and participate in a pleasant discussion together .', // 卡背面文本 3
-  back4: 'Welcome to Niute's channel, wish you a nice day.' // 卡背面文本 4
+  back4: 'Welcome to [Niuteの交流群], wish you a nice day.' // 卡背面文本 4
 }
 
 if (window.location.pathname.startsWith('/posts')) {
