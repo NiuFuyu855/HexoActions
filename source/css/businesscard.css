@@ -268,6 +268,9 @@
   letter-spacing: 1px;
   color: #000;
   background: #fff;
+
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
 }
 .business-back .business-ccv label {
   display: block;
