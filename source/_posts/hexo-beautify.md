@@ -12,7 +12,7 @@ updated: '2022-11-20 17:45:25'
 ---
 # Hexo 博客美化合集
 
-![Hexo Beautify](https://cdn.off.cx/pic/hexo-beautify.jpg "Hexo Beautify")
+![Hexo Beautify](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/hexo-beautify.jpg "Hexo Beautify")
 
 ~~纪~~技术交流群：[Telegram](https://t.me/NIUTECHAT_CN "Niuteの交流群")
 

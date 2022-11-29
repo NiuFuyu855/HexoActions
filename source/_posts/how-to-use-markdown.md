@@ -120,7 +120,7 @@ n个…
 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加
 
 ###效果:
-![就是这样](https://cdn.off.cx/pic/rnwtq.jpg "嗨嗨嗨")
+![就是这样](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/rnwtq.jpg "嗨嗨嗨")
 
 上传本地图片直接点击导航栏的图片标志，选择图片即可
 markdown格式追求的是简单、多平台统一。那么图片的存储就是一个问题，需要用图床，提供统一的外链，这样就不用在不同的平台去处理图片的问题了。才能做到书写一次，各处使用。
@@ -134,9 +134,8 @@ title可加可不加
 
 #### 效果:
 
-[Niute Fony](https://blogs.niufuyu.top/ "Niute Fony")
-[WSSB Blog](https://blog.wssb.ml/ "WSSB Blog")
-[NIUIO导航](https://dh.niufuyu.top/ "NIUIO导航")
+[Niute Fony](https://off.cx/ "Niute Fony")
+[啥也不是の屑 | 7d8.cn!](https://dh.niufuyu.top/ "啥也不是の屑 | 7d8.cn!")
 
 ### 列表
 

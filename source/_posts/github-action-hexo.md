@@ -13,7 +13,7 @@ updated: '2022-11-08 22:23:44'
 ---
 以后就不需要再自己部署博客了
 
-![Hexo & Github](https://cdn.off.cx/pic/Hexo-Github.png "Hexo & Github")
+![Hexo & Github](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/Hexo-Github.png "Hexo & Github")
 
 <!--more-->
 

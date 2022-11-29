@@ -12,7 +12,7 @@ title: 不仅是 outlook.com | 申请与众不同的 Outlook 邮箱
 updated: '2022-11-08 22:20:50'
 ---
 不拘泥于传统 Outlook，申请一个与众不同的 Outlook.it/Outlook.ie/Outlook.fr 邮箱。
-![Outlook](https://cdn.off.cx/pic/Outlook.png "Outlook")
+![Outlook](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/Outlook.png "Outlook")
 
 <!--more-->
 

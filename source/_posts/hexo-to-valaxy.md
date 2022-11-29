@@ -14,7 +14,7 @@ updated: '2022-11-08 21:53:57'
 
 最近我看到 [BigCake](https://bigcake.cakemc.top) 在测试 [Valaxy](https://valaxy.site) ，我看他搭的[测试站](https://valaxy.bigcake.cakemc.top)还不错（~~其实就是看上了 [Valaxy](https://valaxy.site) 的翻译功能~~）,听说速度也很快，所以我也想整一个了（
 
-![整一个](https://cdn.off.cx/pic/rnwtq.jpg "整一个")
+![整一个](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/rnwtq.jpg "整一个")
 
 <!-- more -->
 

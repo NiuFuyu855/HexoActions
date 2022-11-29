@@ -9,7 +9,7 @@ tags:
 title: 台湾洞穴发现6000年前头骨或证实原住民传说
 updated: '2022-10-23 12:34:43'
 ---
-![台湾洞穴发现6000年前头骨](https://cdn.off.cx/pic/6000-year-old-skull.jpg "台湾洞穴发现6000年前头骨")
+![台湾洞穴发现6000年前头骨](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/6000-year-old-skull.jpg "台湾洞穴发现6000年前头骨")
 
 <!-- more -->
 

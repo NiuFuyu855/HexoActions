@@ -13,7 +13,7 @@ updated: '2022-11-08 22:11:41'
 ---
 # 初中化学中考知识点
 
-![化学](https://cdn.off.cx/pic/huaxue.jpg "化学")
+![化学](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/huaxue.jpg "化学")
 
 ### 一、基本概念：
 
