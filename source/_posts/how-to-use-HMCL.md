@@ -104,3 +104,7 @@ updated: '2022-09-18 15:52:01'
 ## 开始吧！
 
 恭喜，你已经成功启动了 Minecraft，开始游戏吧！
+
+## 转载声明
+
+转载于 [Nofated's Blog](https://blog.nofated.win/ "Nofated's Blog") 中文章 [使用 HMCL 的正确的姿势](https://blog.nofated.win/2022/02/18/how-to-use-HMCL/)
