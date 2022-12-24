@@ -71,6 +71,12 @@ links:
   desc: 害怕孤独，但又享受孤独
   name: 小星鑫233
   url: https://blog.xsnet.eu.org/
+- avatar: https://i.im5i.com/2021/06/05/CpGnd.png
+  blog: 字节君
+  color: '#f5c979'
+  desc: 热爱漫无边际，生活自有分寸
+  name: 一个卑微的初三生
+  url: https://blog.lvbyte.tk
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
