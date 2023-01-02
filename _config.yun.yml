@@ -249,6 +249,7 @@ head:
   css: 
     waline: /css/waline-ua.css
     businesscardcss: /css/businesscard.css
+    lantern: /css/lantern.css
   js: 
     base:  # 必须提前加载并执行。
     async:  # 异步加载，加载完成后立即执行。
