@@ -540,7 +540,7 @@ social:
     icon: ri:kakao-talk-line
     color: black
   - name: Travelling
-    link: https://travellings.cn
+    link: https://www.travellings.cn/go.html
     icon: ri:train-line
     color: black
 pjax:
