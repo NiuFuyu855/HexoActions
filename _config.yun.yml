@@ -115,6 +115,10 @@ aplayer:
         artist: U-ske / 棗いつき
         url: https://s-sh-4608-picbucket.oss.dogecdn.com/music/%E3%81%84%E3%81%96%E3%80%81%E5%8F%82%E3%82%8A%E3%81%BE%E3%81%99.m4a
         cover: https://s-sh-4608-picbucket.oss.dogecdn.com/pic/%E3%81%84%E3%81%96%E3%80%81%E5%8F%82%E3%82%8A%E3%81%BE%E3%81%99.jpg
+      - name: 雪降り、メリクリ(feat.Miku)
+        artist: A-39 / 沙包P / 初音ミク
+        url: https://s-sh-4608-picbucket.oss.dogecdn.com/music/%E9%9B%AA%E9%99%8D%E3%82%8A%E3%80%81%E3%83%A1%E3%83%AA%E3%82%AF%E3%83%AA(feat.Miku).m4a
+        cover: https://s-sh-4608-picbucket.oss.dogecdn.com/pic/%E9%9B%AA%E9%99%8D%E3%82%8A%E3%80%81%E3%83%A1%E3%83%AA%E3%82%AF%E3%83%AA(feat.Miku).jpg
     meting:
       enable: false
       id: 492390949
