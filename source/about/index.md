@@ -1,7 +1,7 @@
 ---
 date: 2022-06-05 18:55:00
 title: 关于
-updated: 2022-11-06 18:40:09
+updated: 2023-01-03 14:05:19
 ---
 # 关于
 
@@ -17,15 +17,15 @@ Hei! Guy!
 
 博客使用 [jsDelivr](https://www.jsdelivr.com/) 静态资源公共库中的部分静态资源作为 cdn。
 
-博客已进行 [ICP](https://beian.miit.gov.cn/) 备案，ICP备案号是[[浙ICP备13034790号-3](https://beian.miit.gov.cn/)]。(博客可使用多网址访问，但域名是备案了一个，即off.cx，~~其实这个域名还不是我自己备案的~~)
+~~博客已进行 [ICP](https://beian.miit.gov.cn/) 备案，ICP备案号是[[浙ICP备13034790号-3](https://beian.miit.gov.cn/)]。(博客可使用多网址访问，但域名是备案了一个，即off.cx，其实这个域名还不是我自己备案的)~~
 
 博客已进行 [萌国ICP](https://icp.gov.moe/) 备案，萌备案号是[[萌ICP备20226111号](https://icp.gov.moe/?keyword=20226111)]。
 
-~~博客已签约 [十年之约](https://www.foreverblog.cn/)，可以在 [这里](https://www.foreverblog.cn/blog/2712.html) 查看详情。按照 [条约](https://www.foreverblog.cn/treaty.html) 的约定，博客会开十年之久。~~(试着申请了，但没过审，等博客满一年会再次尝试申请的)
+~~博客已签约 [十年之约](https://www.foreverblog.cn/)，可以在 [这里](https://www.foreverblog.cn) 查看详情。按照 [条约](https://www.foreverblog.cn/treaty.html) 的约定，博客会开十年之久。~~(试着申请了，但没过审，等博客满一年会再次尝试申请的)
 
 博客是 [开往-友链接力](https://github.com/travellings-link/travellings) 的成员站点，非常支持优秀的站点之间互相来往联系。
 
-<a href="https://travellings.cn/" target="_blank" rel="noopener" title="开往-友链接力" data-pjax-state=""><img src="https://travellings.cn/assets/logo.gif" alt="开往-友链接力" width="120"></a>
+<a href="https://www.travellings.cn/go.html" target="_blank" rel="noopener" title="开往-友链接力" data-pjax-state=""><img src="https://www.travellings.cn/assets/logo.gif" alt="开往-友链接力" width="120"></a>
 
 ### 本站访问
 
@@ -82,103 +82,6 @@ Hei! Guy!
 
 使用[Paypal](https://paypal.me/niufuyu855)
 
-<div id="smart-button-container">
-    <div style="text-align: center"><label for="description">欢迎打赏/赞助我~ </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
-      <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>
-    <div style="text-align: center"><label for="amount">输入您想要打赏/赞助的金额 </label><input name="amountInput" type="number" id="amount" value="" ><span> USD</span></div>
-      <p id="priceLabelError" style="visibility: hidden; color:red; text-align: center;">Please enter a price</p>
-    <div id="invoiceidDiv" style="text-align: center; display: none;"><label for="invoiceid"> </label><input name="invoiceid" maxlength="127" type="text" id="invoiceid" value="" ></div>
-      <p id="invoiceidError" style="visibility: hidden; color:red; text-align: center;">Please enter an Invoice ID</p>
-    <div style="text-align: center; margin-top: 0.625rem;" id="paypal-button-container"></div>
-  </div>
-  <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
-  <script>
-  function initPayPalButton() {
-    var description = document.querySelector('#smart-button-container #description');
-    var amount = document.querySelector('#smart-button-container #amount');
-    var descriptionError = document.querySelector('#smart-button-container #descriptionError');
-    var priceError = document.querySelector('#smart-button-container #priceLabelError');
-    var invoiceid = document.querySelector('#smart-button-container #invoiceid');
-    var invoiceidError = document.querySelector('#smart-button-container #invoiceidError');
-    var invoiceidDiv = document.querySelector('#smart-button-container #invoiceidDiv');
-    var elArr = [description, amount];
-    if (invoiceidDiv.firstChild.innerHTML.length > 1) {
-      invoiceidDiv.style.display = "block";
-    }
-    var purchase_units = [];
-    purchase_units[0] = {};
-    purchase_units[0].amount = {};
-    function validate(event) {
-      return event.value.length > 0;
-    }
-    paypal.Buttons({
-      style: {
-        color: 'silver',
-        shape: 'pill',
-        label: 'pay',
-        layout: 'vertical',
-      },
-      onInit: function (data, actions) {
-        actions.disable();
-        if(invoiceidDiv.style.display === "block") {
-          elArr.push(invoiceid);
-        }
-        elArr.forEach(function (item) {
-          item.addEventListener('keyup', function (event) {
-            var result = elArr.every(validate);
-            if (result) {
-              actions.enable();
-            } else {
-              actions.disable();
-            }
-          });
-        });
-      },
-      onClick: function () {
-        if (description.value.length < 1) {
-          descriptionError.style.visibility = "visible";
-        } else {
-          descriptionError.style.visibility = "hidden";
-        }
-        if (amount.value.length < 1) {
-          priceError.style.visibility = "visible";
-        } else {
-          priceError.style.visibility = "hidden";
-        }
-        if (invoiceid.value.length < 1 && invoiceidDiv.style.display === "block") {
-          invoiceidError.style.visibility = "visible";
-        } else {
-          invoiceidError.style.visibility = "hidden";
-        }
-        purchase_units[0].description = description.value;
-        purchase_units[0].amount.value = amount.value;
-        if(invoiceid.value !== '') {
-          purchase_units[0].invoice_id = invoiceid.value;
-        }
-      },
-      createOrder: function (data, actions) {
-        return actions.order.create({
-          purchase_units: purchase_units,
-        });
-      },
-      onApprove: function (data, actions) {
-        return actions.order.capture().then(function (orderData) {
-          // Full available details
-          console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
-          // Show a success message within this page, e.g.
-          const element = document.getElementById('paypal-button-container');
-          element.innerHTML = '';
-          element.innerHTML = '<h3>Thank you for your payment!</h3>';
-          // Or go to another URL:  actions.redirect('thank_you.html');
-        });
-      },
-      onError: function (err) {
-        console.log(err);
-      }
-    }).render('#paypal-button-container');
-  }
-  initPayPalButton();
-  </script>
 
 ## 结尾
 
