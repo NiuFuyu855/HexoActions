@@ -111,6 +111,10 @@ aplayer:
         artist: 灰澈
         url: https://off.cx/img/%E6%98%9F%E8%8C%B6%E4%BC%9A.mp3
         cover: https://p3-sign.bdxiguaimg.com/tos-cn-i-0026/8eb02d4edcac460fbb3157351086bbd3~tplv-pk90l89vgd-crop-center:864:486.jpeg?x-expires=1692369361&x-signature=NdpbiymD8pOYoxdMtrHSTypV7OE%3D
+      - name: いざ、参ります
+        artist: U-ske / 棗いつき
+        url: https://s-sh-4608-picbucket.oss.dogecdn.com/music/%E3%81%84%E3%81%96%E3%80%81%E5%8F%82%E3%82%8A%E3%81%BE%E3%81%99.m4a
+        cover: https://s-sh-4608-picbucket.oss.dogecdn.com/pic/%E3%81%84%E3%81%96%E3%80%81%E5%8F%82%E3%82%8A%E3%81%BE%E3%81%99.jpg
     meting:
       enable: false
       id: 492390949
