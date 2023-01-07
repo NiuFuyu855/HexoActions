@@ -197,7 +197,7 @@ waline:
   requiredMeta: [nick]
   
 livere:
-  enable: true
+  enable: false
   uid: MTAyMC81NzY1Ny8zNDEyMA==
 
 # https://github.com/laymonage/giscus
