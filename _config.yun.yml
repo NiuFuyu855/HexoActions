@@ -168,7 +168,7 @@ comment:
   candidates:
     - twikoo
     - waline
-    - livere
+    # - livere
     # - giscus
     # - utterances
   tips:
