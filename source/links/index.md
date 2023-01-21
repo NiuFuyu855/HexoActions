@@ -77,6 +77,12 @@ links:
   desc: 热爱漫无边际，生活自有分寸
   name: 一个卑微的初三生
   url: https://blog.lvbyte.tk
+- avatar: https://www.z4a.net/images/2022/12/21/69b0b726526006364a7732c837828b3428f7492a.jpg
+  blog: 咬一口激动的鱼
+  color: '#24ffc0'
+  desc: 风带来了种子，时间使之发芽
+  name: Tabotef134
+  url: https://tabotef134.top/
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
