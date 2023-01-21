@@ -11,12 +11,12 @@ links:
   desc: All at sea.
   name: 云游君
   url: https://yunyoujun.cn
-- avatar: https://www.lanta.cyou/avatar.png
+- avatar: https://lanta.bangumi.cyou/avatar.jpeg
   blog: Lanta Zone
   color: '#FF8000'
   desc: Lanta的空间
   name: Lanta Zone
-  url: https://www.lanta.cyou/
+  url: https://lanta.bangumi.cyou/
 - avatar: https://www.minept.top/frontend/img/banner-2.jpg
   blog: MPT
   color: '#0078e7'
