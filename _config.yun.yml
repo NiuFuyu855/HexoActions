@@ -155,13 +155,13 @@ menu:
     #   count: 你猜
   custom:
     title: 留言板
-    path: https://waline.niufuyu.top/
+    path: https://waline.off.cx/
     icon: ri:clipboard-line
 
 # 公告
 notice:
   enable: true
-  content: Hi. Welcome to my 屑破站!qwq <br>初二已经浑浑噩噩地混过去了（bushi，已经初三了，将来的一年里可能不会更新文章了（但也不一定），要中考了qwq</br><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1424964170&auto=0&height=66"></iframe></br> <br>不过我相信光</br><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1461256747&auto=0&height=66"></iframe></br> <!--<br>Hypixel Server</br> <br><iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.hypixel.net/embed" width="728" height="90"></iframe></br><br>接个小广告(回回血啊)</br><br><a href="https://evolution-host.com/" target="_blank" rel="nofollow noopener"><img src="https://img.dujin.org/images/evolution-host-328-82.png" alt="Invent the future with Evolution Host"></a></br>-->
+  content: Hey~ Welcome to my website! awa~<br>最新通知：<br>本站已于2023年2月19日更换Logo并改网名为“月光小镇”，原因是之前那串英文太屑了，还不如用中文。<br>新Logo的故事：<br>关于这个新Logo，是我寒假在玩 Draw & Guess 的时候画友们画的，是不是很好康[doge]？<br>关于我的一些情况：<br>初三上学期已经过去了，扬州这边中考在6月16日17日18日三天时间，可能不会频繁更新啦~ 还请各位见谅！<br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1424964170&auto=0&height=66"></iframe><br>不过我相信光<br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1461256747&auto=0&height=66"></iframe><!--<br>Hypixel Server</br> <br><iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.hypixel.net/embed" width="728" height="90"></iframe></br><br>接个小广告(回回血啊)</br><br><a href="https://evolution-host.com/" target="_blank" rel="nofollow noopener"><img src="https://img.dujin.org/images/evolution-host-328-82.png" alt="Invent the future with Evolution Host"></a></br>-->
 
 # Chat
 comment:
