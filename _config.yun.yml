@@ -29,7 +29,8 @@ favicon: /favicon.jpg
 
 # 头像设置
 avatar:
-  url: /avatar.jpg
+  url: /favicon.jpg
+  # url: /avatar.jpg
   status:
     enable: true
     emoji: 🌑
