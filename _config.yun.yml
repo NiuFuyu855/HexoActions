@@ -5,11 +5,10 @@ mode: auto
 banner:
   enable: true
   title:
-    - NIUTE
-    - の
-    - 屑
-    - 破
-    - 站
+    - 月
+    - 光
+    - 小
+    - 镇
   src: /js/ui/banner.js
   border: true
   cloud:
