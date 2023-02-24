@@ -10,4 +10,4 @@ liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-custom: ['https://afdian.net/a/CNHOMO','https://cdn.off.cx/pic/zfb.jpg'] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: ['https://afdian.net/a/NameFlying','http://s-sh-4608-picbucket.oss.dogecdn.com/pic/zfb.jpg'] # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
