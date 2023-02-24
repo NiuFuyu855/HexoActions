@@ -25,7 +25,7 @@ updated: 2023-01-11 19:09:32
 
 您可通过爱发电赞助本站
 
-[点此](https://afdian.net/a/CNHOMO)前往本站爱发电赞助页
+[点此](https://afdian.net/a/NameFlying)前往本站爱发电赞助页
 
 #### 途径二
 
