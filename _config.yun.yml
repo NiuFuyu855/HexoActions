@@ -276,7 +276,7 @@ footer:
     enable: true
     title: 又拍云
     link: https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral
-    logo: https://cdn.cakeskin.tk/images/upyun-logo.png
+    logo: https://s2.loli.net/2023/03/26/mBKX3SEZytqC6Qw.png
     prefix: 本网站由
     suffix: 提供 CDN 加速与云存储服务
   custom_text: <a href="https://icp.gov.moe" target="_blank">萌ICP备</a><a href="https://icp.gov.moe/?keyword=20226111" target="_blank"> 20226111号</a> <br><p></p>
@@ -289,15 +289,11 @@ footer:
     <script>
         loadStatistic("https://qexo.niufuyu.top")
     </script>
-    <br><p></p><br><a href="https://www.oscs1024.com/project/NiuFuyu855/HexoActions?ref=badge_small" alt="OSCS Status"><img src="https://www.oscs1024.com/platform/badge/NiuFuyu855/HexoActions.svg?size=small"/></a><br><a href="https://travellings.cn/" target="_blank" rel="noopener" title="开往-友链接力"><img src="https://off.cx/img/travelling-logo.gif" alt="开往-友链接力" width="120"></a>
-    <br><p></p>
+    <br><p></p><br><a href="https://travellings.cn/" target="_blank" rel="noopener" title="开往-友链接力"><img src="https://off.cx/img/travelling-logo.gif" alt="开往-友链接力" width="120"></a>
+    <br>
     <br><a href="https://foreverblog.cn" target="_blank"><img height="25" alt="十年之约" src="https://img.foreverblog.cn/logo_en_default.png"></a>
-    <!-- MySSL认证 -->
-    <div id="cc-myssl-id">
-      <a href="https://myssl.com/off.cx?from=mysslid"><img src="https://static.myssl.com/res/images/myssl-id3.png" alt="" style="max-height:50px;display:block;margin:0 auto"></a>
-    </div>
     <!-- 51.LA统计 -->
-    <a target="_blank" title="51.LA网站统计" href="https://v6.51.la/land/JpenND6UOGk9I9kD"><img src="https://s-sh-4608-picbucket.oss.dogecdn.com/pic/51.la.png"></a>
+    <a target="_blank" title="51.LA网站统计" href="https://v6.51.la/land/JpenND6UOGk9I9kD"><img src="https://s2.loli.net/2023/03/25/bWKGEs6in5e8Mhl.png"></a>
     <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js?id=JpenND6UOGk9I9kD&ck=JpenND6UOGk9I9kD&autoTrack=true&hashMode=true"></script>
     <script src="https://sdk.51.la/perf/js-sdk-perf.min.js" crossorigin="anonymous"></script>
     <script>new LingQue.Monitor().init({id:"JhF9yG6HEScPsZpm"});</script>
