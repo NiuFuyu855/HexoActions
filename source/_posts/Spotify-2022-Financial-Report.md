@@ -7,13 +7,13 @@ sticky: ''
 tags:
 - Spotify
 title: Spotify付费用户达到2.05亿名远超竞争对手 但目前仍然是亏损的
-updated: '2023-02-01 19:34:01'
+updated: '2023-03-26 21:53:01'
 ---
 作为全球最流行的流媒体音乐服务 Spotify 目前公布了 2022Q4 财报，最新数据显示 Spotify 付费用户已经达到 2.05 亿，去年 12 月的时候付费用户突破 2 亿，这意味着两个月左右 Spotify 付费用户又涨了 500 万名。
 
 由广告支持的免费版订阅用户达到 2.95 亿，较 2022Q3 的 2.73 亿增长了 8%。月活跃用户总数为 4.89 亿名，比 2022Q3 的 2.73 亿名增长了 7%。
 
-![Spotify](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/spotify.png)
+![Spotify](https://s2.loli.net/2023/03/25/M96hAnZIdXcYBTS.png)
 
 <!-- more-->
 

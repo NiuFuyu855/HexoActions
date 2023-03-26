@@ -14,7 +14,7 @@ updated: '2022-11-08 21:53:57'
 
 最近我看到 [BigCake](https://bigcake.cakemc.top) 在测试 [Valaxy](https://valaxy.site) ，我看他搭的[测试站](https://valaxy.bigcake.cakemc.top)还不错（~~其实就是看上了 [Valaxy](https://valaxy.site) 的翻译功能~~）,听说速度也很快，所以我也想整一个了（
 
-![整一个](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/rnwtq.jpg "整一个")
+![整一个](https://s2.loli.net/2023/03/25/92givwLpnhNeCTW.jpg "整一个")
 
 <!-- more -->
 
@@ -28,7 +28,7 @@ updated: '2022-11-08 21:53:57'
 
 新建一个文件夹，然后在这个文件夹内打开终端，输入如下内容进行初始化：
 
-```
+```cmd
 npm init valaxy
 # `pnpm create valaxy` is recommened by author
 ```
@@ -37,7 +37,7 @@ npm init valaxy
 
 进入到生成的项目文件夹内，输入指令安装依赖并启动本地预览
 
-```
+```cmd
 npm install 
 # yarn
 npm run dev
@@ -56,7 +56,7 @@ npm run dev
 
 输入如下指令生成静态文件，然后就可以把 `dist` 文件夹下的内容部署到自己的服务器上了：
 
-```
+```cmd
 npm run build
 # npm run build:spa for SPA
 ```

@@ -5,8 +5,9 @@ categories:
 date: '2022-08-22 00:11:54'
 tags:
 - MPT
+- Minecraft
 title: '[MPT]一个免费为MC玩家打造mod/插件的组织'
-updated: '2022-08-22 00:11:57'
+updated: '2023-03-26 21:50:33'
 ---
 
 ![MPT](https://www.minept.top/frontend/img/banner-2.jpg "MPT")

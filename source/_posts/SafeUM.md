@@ -7,7 +7,7 @@ sticky: ''
 tags:
 - 白嫖
 title: 免费匿名电话号码——SafeUM
-updated: '2022-12-09 23:27:41'
+updated: '2023-03-26 21:52:41'
 ---
 每个 SafeUM 用户都会获得免费的匿名电话号码，获取方法非常简单！你只要安装 SafeUM App 即可，你甚至不需要用邮箱。
 
@@ -17,7 +17,7 @@ SafeUM官方网站：[https://safeum.com/](https://safeum.com/)
 下载的时候可以在官网直接下载，但是iOS需要美区Apple ID，安卓需要在Google play下载，若你没有Google play，找一个apk文件也可以直接安装。
 
 ****小提示**** ： SafeUM的logo是一个橙色的锁，其他均为假冒，请认准下方图标：
-![SafeUM](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/SafeUM.png "SafeUM")
+![SafeUM](https://s2.loli.net/2023/03/25/NJPaDiu21njXS6I.png "SafeUM")
 
 <!-- more -->
 
@@ -29,7 +29,7 @@ SafeUM官方网站：[https://safeum.com/](https://safeum.com/)
 然后，直接注册，使用一个未被占用的用户名，输入两次密码即可！首次使用（免费用户）会强制看1分钟左右的视频广告。
 
 登陆后，进入设置，你就会看到一个免费的号码，!
-![SafeUM example](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/SafeUM-example.png "SafeUM example")
+![SafeUM example](https://s2.loli.net/2023/03/25/6IF3pWQ82RyMPmk.png "SafeUM example")
 
 经查，这个号码是拉脱维亚的，国家代码 +371，可以接收短信，但是不能支持全部业务。目前仅测试了 WhatsApp 可以收到，Telegram有时候能收到，其他的大家可以自己测试吧！
 

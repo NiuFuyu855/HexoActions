@@ -11,7 +11,7 @@ tags:
 - 关于我
 - 关于本站
 title: 关于
-updated: '2022-09-24 20:09:53'
+updated: '2023-03-25 11:38:53'
 ---
 {% meting "1404469236" "netease" "song" "theme:C20C0C" %}
 
@@ -27,7 +27,7 @@ Hei! Guy!
 无论你身处何方，这个小博客都欢迎你的到来。
 啥？我为啥要搭建这个博客？
 
-眼前的这个不起眼的小博客大致始于 2021 年年末到 2022 年年初。历经了很多次改版。原定的是一个基于 WordPress 的软件资源站或者开源镜像站，但实在是buy不起一台VPS，所以就只能想着弄一个静态博客吧，也好用 Github Pages/Vercel/CloudFlare Pages/Netlify 进行部署，也是不需要 money 的，就很棒(~~白嫖万岁~~!)[doge]。一段时间后，我我康到了 [Lanta的Zone](https://www.lanta.cyou/ "Lanta的Zone")，然后就一直想整一个像他那样的，于是我就开始使用 Hexo + `hexo-theme-yun` 尝试部署，，经过了~~~七七四十九天~~~(bushi，终于整好了，并且进行写作，沿用至今。
+眼前的这个不起眼的小博客大致始于 2021 年年末到 2022 年年初。历经了很多次改版。原定的是一个基于 WordPress 的软件资源站或者开源镜像站，但实在是buy不起一台VPS，所以就只能想着弄一个静态博客吧，也好用 Github Pages/Vercel/CloudFlare Pages/Netlify 进行部署，也是不需要 money 的，就很棒(~~白嫖万岁~~!)[doge]。一段时间后，我我康到了 [Lanta的Zone](https://www.lanta.cyou/ "Lanta的Zone")，然后就一直想整一个像他那样的，于是我就开始使用 Hexo + `hexo-theme-yun` 尝试部署，，经过了~~~七七四十九天~~~(bushi，终于整好了，并且进行写作，沿用至今，当然后续可能考虑云游君新出的 [Valaxy](https://github.com/YunYouJun/valaxy "Valaxy") 驱动本博客。
 
 博客使用 [jsDelivr](https://www.jsdelivr.com/) 静态资源公共库中的部分静态资源作为 cdn。
 
@@ -61,24 +61,23 @@ Hei! Guy!
 下面是我玩过的游戏列表。最常玩的是 `Minecraft Java Edition` 中多人联机（即服务器）的`Hypixel`的小游戏，最爱玩里面的起床战争（虽然很菜，但又爱玩（），我也同样是个又菜又爱玩的音游人（
 
 * **Minecraft**
-
-  * Java Edition
-  * Bedrock Edition
+  * **Java Edition**
+  * **Bedrock Edition**
+* **A Dance of Fire and Ice 冰与火之舞**
+* **Draw & Guess**
 * **Phigros**
-* **Arcaea**
-* **Orzmic**
+* Arcaea
+* Orzmic
+
+注：加粗为常玩游戏。
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.hypixel.net/embed" width="728" height="90"></iframe>
 
-
-
 ![My Hypixel Exp](https://gen.plancke.io/exp/NameFlying.png "My Hypixel Exp")
-
 
 ![My Hypixel AchievementPoints](https://gen.plancke.io/achievementPoints/NameFlying.png "My Hypixel AchievementPoints")
 
 ![My Mwgif](https://gen.plancke.io/mwgif/NameFlying.gif "My Mwgif")
-
 
 ![Arcaea](https://off.cx/img/Arcaea.jpg)
 

@@ -9,7 +9,7 @@ tags:
 - Minecraft
 - 教程
 title: 如何用命令行启动 Minecraft ？
-updated: '2023-02-18 00:43:29'
+updated: '2023-03-26 21:55:29'
 ---
 ## 前言
 
@@ -28,18 +28,18 @@ updated: '2023-02-18 00:43:29'
 
 1. 使用官方启动器打开你想要游玩的版本
    首先，打开在准备工作中下载好的安装包，运行安装，打开安装好的启动器。
-   ![](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/MCLauncher1.png)
+   ![](https://s2.loli.net/2023/03/25/cVxLe6wQFPpyWOr.png)
 
    接着，我们点击上方第二个``配置``按钮，来到配置游戏版本的页面。
-   ![](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/MCLauncher2.png)
+   ![](https://s2.loli.net/2023/03/25/3dOo2pU8q1tYQVN.png)
    点击``加配置``，你会来到这样的一个页面。
-   ![](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/MCLauncher3.png)
+   ![](https://s2.loli.net/2023/03/25/EMK17B5pUOtkGdZ.png)
 
    > 这里我以``1.8.9``为例，其他版本操作都是一致的。
    >
 
    然后，我们点击``显示更多选项``按钮，配置一下``JVM启动参数``，当然你也可以不更改。
-   ![](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/MCLauncher4.png)
+   ![](https://s2.loli.net/2023/03/25/zbXSJNn2Cc9P64U.png)
 
    > PS. 这里其实只需要更改 ``"JVM参数"`` 中 ``"-Xmx 1G"`` 一项，具体几G看个人电脑配置，这里不多赘述。
    >
@@ -47,7 +47,7 @@ updated: '2023-02-18 00:43:29'
    最后点击右下角绿色按钮``保存``即可。
 2. 启动刚刚我们配置好的游戏
 
-   ![](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/MCLauncher1.png)
+   ![](https://s2.loli.net/2023/03/25/cVxLe6wQFPpyWOr.png)
 
    > PS. 如果你没有正版账号，可以选择右边的``开始试玩``按钮。
    >
@@ -55,7 +55,7 @@ updated: '2023-02-18 00:43:29'
    然后等待启动项下载相关配置文件后启动。
 3. 游戏运行后，打开cmd，获取MC的启动命令。
    如果你是点击``开始试玩``的话，游戏运行后的是这样的
-   ![](http://s-sh-4608-picbucket.oss.dogecdn.com/pic/MCLauncher5.png)
+   ![](https://s2.loli.net/2023/03/25/AYdGujoW27URHPC.png)
    不够你先别担心，直接``Win+R``打开``cmd``，输入下面这串命令（正版启动的也是一样操作）。
 
    ```cmd
@@ -68,7 +68,7 @@ updated: '2023-02-18 00:43:29'
    wmic process where caption='java.exe' get commandline
    ```
 
-   ![](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/MCLauncher6.png)
+   ![](https://s2.loli.net/2023/03/25/9C7mwyc3pTQHenh.png)
 
    > PS. 命令的生成可能因各种因素而异，不过别担心。
    >
@@ -102,7 +102,7 @@ updated: '2023-02-18 00:43:29'
    ```
 4. 另存为启动命令
    把刚刚整理好的启动命令另存为，按``Ctrl+Shift+S``，在弹出的另存为窗口中，``文件类型``选择``所有文件 (*)``，然后把文件名改成``MCLauncher1.8.9.cmd``(或者别的，但后缀名一定要改成``.cmd``或者``.bat``)。
-   ![](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/MCLauncher7.png)
+   ![](https://s2.loli.net/2023/03/25/3TUSroWqjvRD6LJ.png)
    至此，我们就完成了启动脚本的制作！
 
    ## 深入探究

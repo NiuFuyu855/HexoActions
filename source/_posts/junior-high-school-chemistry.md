@@ -5,15 +5,14 @@ categories:
 - 学习资料
 date: '2022-06-07 21:19:00'
 permalink: posts/chemistry/
-sticky: ''
 tags:
 - 学习资料
 title: 初中化学中考知识点
-updated: '2022-11-08 22:11:41'
+updated: '2023-03-26 21:47:41'
 ---
 # 初中化学中考知识点
 
-![化学](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/huaxue.jpg "化学")
+![化学](https://s2.loli.net/2023/03/25/wmAHBk72g4E9uyf.jpg "化学")
 
 ### 一、基本概念：
 
