@@ -44,11 +44,17 @@ Hei! Guy!
 下面是我玩过的游戏列表。最常玩的是 `Minecraft Java Edition` 中多人联机（即服务器）的 `Hypixel` 的小游戏，最爱玩里面的起床战争（虽然很菜，但又爱玩（），我也同样是个又菜又爱玩的音游人（
 
 * **Minecraft**
-  * Java Edition
-  * Bedrock Edition
+  * **Java Edition**
+  * *Bedrock Edition*
+* **A Dance of Fire and Ice 冰与火之舞**
+* **Draw & Guess**
 * **Phigros**
-* **Arcaea**
-* **Orzmic**
+* *Arcaea*
+* *Orzmic*
+
+注：加粗为常玩游戏。
+
+![A Dance of Fire and Ice](https://s2.loli.net/2023/03/26/X7JeMBIqZrSag1P.jpg "A Damce of Fire of Ice")
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/mc.hypixel.net/embed" width="728" height="90"></iframe>
 
@@ -66,9 +72,9 @@ Hei! Guy!
 
 [Telegram](https://t.me/NiuFuyu_CN "啥也不是の屑")
 
-[Telegram Channel](https://t.me/Niute_CN)
+[Telegram Channel](https://t.me/LunarTownChannel)
 
-[QQ](tencent://Message/?Uin=3327223191&websiteName=qzone.qq.com&Menu=yes "啥也不是の屑")
+[QQ](http://wpa.qq.com/msgrd?v=3&uin=3327223191&site=qq&menu=yes "啥也不是の屑")
 
 [Twitter](https://twitter.com/NiuFuyu_CN)
 
@@ -78,9 +84,9 @@ Hei! Guy!
 
 ### 一些赞助我的方式
 
-使用[爱发电](https://afdian.net/a/CNHOMO)
+使用[爱发电](https://afdian.net/a/NameFlying)
 
-使用[Paypal](https://paypal.me/niufuyu855)
+~~使用[Paypal](https://paypal.me/niufuyu855)~~ （暂时无法使用）
 
 
 ## 结尾
