@@ -88,8 +88,7 @@ links:
   color: '#95f395'
   desc: 陇上正飞雪，肠断弦亦绝
   name: 弦·SinzMise
-  url: "https://blog.sinzmise.top
-
+  url: https://blog.sinzmise.top
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
