@@ -84,16 +84,18 @@ links:
   name: Tabotef134
   url: https://tabotef134.top/
 - avatar: https://cravatar.cn/avatar/4193da6ee225ac3a05b7adddff9d9ce2?s=1000
-  name: 弦·SinzMise
   blog: SinzMise的小屋
-  desc: 陇上正飞雪，肠断弦亦绝。
   color: '#95f395'
-  url: "https://blog.sinzmise.top/
+  desc: 陇上正飞雪，肠断弦亦绝
+  name: 弦·SinzMise
+  url: "https://blog.sinzmise.top
+
 placeholder: 这个站主很懒，连个介绍都不写
 tip: 友链加载中～如失败请刷新重试～
 title: 友链
 updated: 2022-11-19 11:07:13
 ---
+
 ## Qexo中的友链
 
 <div id="qexo-friends"></div>
