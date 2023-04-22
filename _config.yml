@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-# url: https://blogs.niufuyu.top/
+# url: https://yun.off.cx
 # permalink: :year/:month/:day/:title/
 # permalink_defaults:
 # pretty_urls:
@@ -22,7 +22,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 # # If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://off.cx/
+url: https://yun.off.cx/
 root: /
 # permalink: :year/:month/:day/:title/  # 旧的注释掉
 # permalink_defaults:                   # 旧的注释掉
@@ -125,11 +125,6 @@ deploy:
 #  - type: git
 #    repo: git@github.com:NiuFuyu855/Niute-Fony.git
 #    branch: main
-  - type: ali-oss
-    region: oss-cn-hongkong
-    accessKeyId: LTAI5tRJbwv4qeQcFx8Gbpfe
-    accessKeySecret: vOn3Y7l1NWmFZxJ49MlhWSvQI0nZyb
-    bucket: niufuyu-blog
 
 # 搜索
 algolia:
@@ -176,6 +171,7 @@ bangumi: # 追番设置
     port: 
   extra_options:
     key: value
+
 cinema: # 追剧设置
   enable: true
   path: cinema/index.html
